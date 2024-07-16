@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="@dimen/margin8"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:letterSpacing="0.03"
+            android:lineHeight="24sp"
+            android:lineSpacingExtra="5sp"
+            android:textColor="@color/title_toolbar_custom"
+            android:textFontWeight="600"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/numEmployee"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Luis Pérez Pérez" />
+
+        <TextView
+            android:id="@+id/numEmployee"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="@dimen/margin16"
+            android:alpha="0.87"
+            android:background="@drawable/num_employe_estaciones_libres"
+            android:gravity="center_vertical|center"
+            android:letterSpacing="0.03"
+            android:lineHeight="@dimen/text_subtitle"
+            android:lineSpacingExtra="2sp"
+            android:minWidth="52dp"
+            android:paddingHorizontal="4dp"
+            android:textColor="@color/numEmployee"
+            android:textFontWeight="600"
+            android:textSize="@dimen/text_body"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="1234567890" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/linearDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin16"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/name">
+
+            <ImageView
+                android:id="@+id/login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/margin8"
+                android:src="@drawable/login"/>
+
+            <ImageView
+                android:id="@+id/logout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/margin8"
+                android:visibility="gone"
+                android:src="@drawable/logout"/>
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textFontWeight="600"
+                android:gravity="center_vertical"
+                android:letterSpacing="0.04"
+                android:lineHeight="24sp"
+                android:lineSpacingExtra="5sp"
+                android:textColor="@color/dateEstacioneslibres"
+                android:textSize="@dimen/text_header"
+                tools:text="04/10/ a las 18:05" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin8"
+            android:layout_marginBottom="@dimen/margin16"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearDate">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/margin8"
+                android:src="@drawable/location_on" />
+
+            <TextView
+                android:id="@+id/bssid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textFontWeight="600"
+                android:gravity="center_vertical"
+                android:letterSpacing="0.03"
+                android:lineHeight="16sp"
+                android:lineSpacingExtra="2sp"
+                android:textColor="@color/dateEstacioneslibres"
+                android:textSize="@dimen/text_header"
+                tools:text="BSSID" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

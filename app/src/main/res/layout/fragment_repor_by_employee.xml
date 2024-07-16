@@ -1,0 +1,246 @@
+<androidx.percentlayout.widget.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.venturessoft.human.views.ui.fragments.ReportFragment.ReporByEmployee">
+
+
+<Button
+    android:id="@+id/btnBackFilter"
+    android:layout_width="50dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="start"
+    android:background="@drawable/back_arrow_btn"
+    android:visibility="gone" />
+
+<LinearLayout
+    android:id="@+id/title_zone"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    app:layout_heightPercent="@dimen/margin_5_percent"
+    app:layout_marginTopPercent="@dimen/margin_5_percent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_weight="1"
+        android:text="@string/report_title"
+        android:textAlignment="center"
+        android:textColor="@color/mBlack"
+        android:textSize="@dimen/text_medium_size" />
+
+
+</LinearLayout>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="end"
+    android:gravity="end"
+    app:layout_heightPercent="@dimen/margin_5_percent"
+    app:layout_marginTopPercent="8%">
+
+    <ImageView
+        android:id="@+id/addFilter"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:visibility="gone"
+        android:src="@mipmap/filtroreport" />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    app:layout_heightPercent="@dimen/margin_5_percent"
+    android:gravity="center"
+    app:layout_marginTopPercent="14%">
+
+
+
+    <TextView
+        android:id="@+id/numEmployeeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:layout_marginEnd="10dp"
+        android:text="___" />
+    <TextView
+        android:id="@+id/nameEmployeeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="_____________" />
+
+
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/body_report1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_heightPercent="@dimen/margin_5_percent"
+    app:layout_marginTopPercent="21%">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:background="@color/backgroundGray"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/report_date" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:background="@color/backgroundGray"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/report_hour" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:background="@color/backgroundGray"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/report_type" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:background="@color/backgroundGray"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/report_observations" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_heightPercent="@dimen/margin_70_percent"
+    app:layout_marginTopPercent="@dimen/margin_25_percent">
+
+
+</LinearLayout>
+
+
+<LinearLayout
+    android:id="@+id/body_report"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_heightPercent="68%"
+    app:layout_marginTopPercent="26%">
+
+    <!--<ImageView
+        android:id="@+id/addFilter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/reporte" />-->
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/employeereportrecicler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:visibility="visible"
+    android:orientation="horizontal"
+    app:layout_heightPercent="@dimen/margin_5_percent"
+    app:layout_marginTopPercent="@dimen/margin_95_percent">
+
+    <ImageView
+        android:id="@+id/emailReportEmployee"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginEnd="15dp"
+        android:gravity="left"
+        android:visibility="visible"
+        android:src="@mipmap/emailreport" />
+
+    <ImageView
+        android:id="@+id/pdfReportEmployee"
+        android:layout_width="50dp"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/pdfreport" />
+
+    <ImageView
+        android:id="@+id/excelReportEmployee"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="15dp"
+        android:src="@mipmap/excelreport"
+        android:visibility="gone"
+
+        />
+</LinearLayout>
+    <LinearLayout
+        android:id="@+id/loadingAnimotionReport"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="horizontal"
+        app:layout_heightPercent="@dimen/margin_100_percent">
+
+        <include
+            android:id="@+id/loadingAnimationWelcome"
+            layout="@layout/view_loading_new" />
+    </LinearLayout>
+</androidx.percentlayout.widget.PercentRelativeLayout>
+

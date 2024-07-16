@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "238573608181",
+    "firebase_url": "https://humen-etime-admin.firebaseio.com",
+    "project_id": "humen-etime-admin",
+    "storage_bucket": "humen-etime-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238573608181:android:a39b2301a8107271e4f9bc",
+        "android_client_info": {
+          "package_name": "com.vsm.human.etimeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238573608181-s2f5b7lv2rejjsqp84qf3h34831m5em1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIJ_SEgy1rhLtCqTGvtPlR1IRISuyqqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238573608181-s2f5b7lv2rejjsqp84qf3h34831m5em1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238573608181-2j9hd2q5h8k0clku4ps8hjf0hvpoqvlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vsm.humandesvinculado"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

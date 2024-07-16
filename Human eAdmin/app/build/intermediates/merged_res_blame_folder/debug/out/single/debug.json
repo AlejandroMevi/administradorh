@@ -1,0 +1,2338 @@
+[
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_calculadora.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/calculadora.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_checkdone.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/checkdone.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_enter_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/enter_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_left_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/left_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_logouticonn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/logouticonn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_markerventures.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/markerventures.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_about_us.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_filtroreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/filtroreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_acercade_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/acercade_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_questionsicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/questionsicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_save.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/save.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_consumidos.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/consumidos.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_enterprice_details.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_enterprice_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_frame_dialog.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/frame_dialog.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_borde_redondo_yellow.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/borde_redondo_yellow.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_edit_stations.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_stations.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_whatsapp.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_whatsapp.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_logouticonnun.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/logouticonnun.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_supervisor.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_supervisor.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_nav_header_nav_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/nav_header_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_settings.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_way_to_pay.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_way_to_pay.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_0262_camera_flip.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_0262_camera_flip.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/xml_data_extraction_rules.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_confirm_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/confirm_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_checkout_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/checkout_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_nav_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_logout_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/logout_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_maps2.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_maps2.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_enter_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/enter_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_camerapayment.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/camerapayment.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_slide_up.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_divider_recicler.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/divider_recicler.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_profile_photo.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/profile_photo.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_confirm_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/confirm_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_pdfreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/pdfreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_emailreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/emailreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_edituser.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/edituser.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_edit.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/edit.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_employee_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/employee_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_icon_employee.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/icon_employee.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_tutorial_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/tutorial_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_rectangle_piechart.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/rectangle_piechart.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_pdfreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/pdfreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_login_bkg.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/login_bkg.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_edituser.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/edituser.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_acercade_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/acercade_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_camera.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_right_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/right_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_check_true_bottom.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_check_true_bottom.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_iconmap.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/iconmap.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_credit_card_scan_black_48dp.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_credit_card_scan_black_48dp.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_slave_login_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/slave_login_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_edit.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/edit.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_iconmenupay.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/iconmenupay.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_report.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_item_trial_details.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/item_trial_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_ios_thumb_disable.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/ios_thumb_disable.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_data_company.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_data_company.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_americanicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/americanicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_enter_from_right.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/enter_from_right.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_paypalicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/paypalicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_excelreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/excelreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_no_button_dialog.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_no_button_dialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_mapa.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/mapa.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_visacardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/visacardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_warning_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/warning_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_tablareport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/tablareport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_report_view.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_report_view.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_zones_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_zones_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_checkin_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/checkin_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_b_tutorial.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/b_tutorial.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_search_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/search_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_save.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/save.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_calculadora.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/calculadora.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_visacardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/visacardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_icon_admin.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/icon_admin.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-anydpi-v24_ic_trial_black.xml.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-anydpi-v24/ic_trial_black.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_enter_from_left.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/enter_from_left.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_nip_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/nip_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_next_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/next_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ios_thumb_selector.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ios_thumb_selector.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_mastercardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/mastercardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_card_blue.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_card_blue.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_ic_delete_white_24.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/ic_delete_white_24.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_logouticonn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/logouticonn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_mapa.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/mapa.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_edit_supervisors.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_supervisors.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_next_btn_selector.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/next_btn_selector.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_logo.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_image_modal_2.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-mdpi/image_modal_2.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_warning_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/warning_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_forgot_nip.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_forgot_nip.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_ic_credit_card_scan_black_48dp.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/ic_credit_card_scan_black_48dp.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_employee_icon_modified.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/employee_icon_modified.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_slide_down.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_info_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_info_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_next_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/next_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_estaciones.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_estaciones.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_a_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/a_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_ios_thumb_disable.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/ios_thumb_disable.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_modal_log_out.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_modal_log_out.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_language_container.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/language_container.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitemsmaintenance.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsmaintenance.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_anim_enter_right.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/anim_enter_right.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_icon_company.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/icon_company.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_search_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_cardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/cardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_checkin_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/checkin_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_camera_mask.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/camera_mask.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_report_details_station_free.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_report_details_station_free.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_cardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/cardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_checkout_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/checkout_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-anydpi-v24_image_modal_2.xml.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-anydpi-v24/image_modal_2.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_check.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/check.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_borde_redondo.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/borde_redondo.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_changenip_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/changenip_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_reports_menu_adapter.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/reports_menu_adapter.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_camerapayment.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/camerapayment.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_cardview_background_yellow.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/cardview_background_yellow.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_error_yellow.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/error_yellow.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_changenip_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/changenip_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_switch_camera_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/switch_camera_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_search.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/search.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_login_bkg.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/login_bkg.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_modal_1.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/modal_1.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_close.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/close.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_back_arrow_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/back_arrow_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_view_image.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_view_image.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_checkdone.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/checkdone.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_marcocamara.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/marcocamara.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_reportes.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_reportes.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_modal_generic.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_modal_generic.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_language_container_arrow.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/language_container_arrow.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_zonas.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_zonas.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_history_audit.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_history_audit.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_button_background_mturqoise.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/button_background_mturqoise.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_americanicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/americanicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_header_user_id_placeholder.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/header_user_id_placeholder.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_menu_send.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitemssuper.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemssuper.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_ios_thumb.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/ios_thumb.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_view_image.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_view_image.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_view_loading_new.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/view_loading_new.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_login.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_calculadora.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/calculadora.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_edit.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/edit.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_language_container.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/language_container.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_card_green.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_card_green.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_ios_thumb_disable.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/ios_thumb_disable.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_a_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/a_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_sysaid.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_sysaid.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_cameraenrol.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/cameraenrol.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_imagen_finger.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/imagen_finger.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_circle_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/circle_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_menu_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/menu_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_error__red.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/error__red.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_ic_credit_card_scan_black_48dp.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-mdpi/ic_credit_card_scan_black_48dp.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_header_user_id_placeholder.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/header_user_id_placeholder.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_info_white.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/info_white.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_logout.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_general_spinner.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/general_spinner.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_emailreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/emailreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_icon_circle_close.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/icon_circle_close.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_company.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_company.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-ldpi_ic_trial_black.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-ldpi/ic_trial_black.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_company_data.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_company_data.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_home.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_dialog_new_category.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/dialog_new_category.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_filter_report.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_filter_report.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_image_modal_2.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-xxhdpi/image_modal_2.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_changenip_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/changenip_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_mastercardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/mastercardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_forma_fondo_alerta_pago_atrasado_fase_2_suspendido.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/forma_fondo_alerta_pago_atrasado_fase_2_suspendido.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_restantes.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/restantes.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_update_photo.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_update_photo.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_next_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/next_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-hdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_emailreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/emailreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_layout_toolbar_view_image.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_toolbar_view_image.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_camerapayment.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/camerapayment.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_list_item_estaciones_libres.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/list_item_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_zoom_min.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_zoom_min.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_circle_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/circle_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_logouticonnun.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/logouticonnun.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_border.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/border.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_close.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/menu_nav_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/menu/nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_mapa.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/mapa.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_confirm_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/confirm_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_left_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/left_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/color_selector_state_focused.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/color/selector_state_focused.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_supervisors_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_supervisors_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_company_data.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_company_data.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_marco_cam.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/marco_cam.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_zoom_out.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/zoom_out.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_ios_thumb_disable.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/ios_thumb_disable.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_simple_spinner_etime.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/simple_spinner_etime.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_icon_employee.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/icon_employee.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_right_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/right_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_data_user.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_data_user.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_logouticonn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/logouticonn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_change_nip.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_change_nip.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_icon_admin.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/icon_admin.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_edituser.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/edituser.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_imagen_finger.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-hdpi/imagen_finger.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_saliriconn.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/saliriconn.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_menu_icon_change_password.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/menu_icon_change_password.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_d_tutorial.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/d_tutorial.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_paypaltitle.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/paypaltitle.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_camera_mask.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/camera_mask.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_iconmap.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/iconmap.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_content_nav_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/content_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_time_freetrial_icon_blue.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/time_freetrial_icon_blue.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_back_button_checkin.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/back_button_checkin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitemsreportemployee.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsreportemployee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_markerventures.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/markerventures.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_num_employe_estaciones_libres.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/num_employe_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_slave_logout_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/slave_logout_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_item_country_phone.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/item_country_phone.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_tablareport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/tablareport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_pdfreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/pdfreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_paypal.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_paypal.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_cameraenrol.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/cameraenrol.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_delete_ic.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/delete_ic.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_language_container_arrow.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/language_container_arrow.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_iconmap.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/iconmap.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_questionsicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/questionsicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_header_logo.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/header_logo.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_navigation_drawer_fragment.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/navigation_drawer_fragment.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_retry_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/retry_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_restantes.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/restantes.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_settingsss.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/settingsss.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_questionsicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/questionsicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_avartar_.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/avartar_.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_time_freetrial_icon.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/time_freetrial_icon.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_c_tutorial.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/c_tutorial.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_switch_camera_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/switch_camera_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_search_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_button_background_white.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/button_background_white.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_logouticonnun.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/logouticonnun.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_emailreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/emailreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_paypal_succes.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_paypal_succes.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_ios_thumb.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/ios_thumb.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_anim_exit_right.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/anim_exit_right.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_user_icon_big.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/user_icon_big.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_enroll__unenroll__report.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_enroll__unenroll__report.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_slave_logout_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/slave_logout_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_logo.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_checkdone.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/checkdone.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_take_photo_btn_selector.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/take_photo_btn_selector.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_slave_logout_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/slave_logout_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_icon_close.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/icon_close.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_excelreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/excelreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_image_modal_2.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-hdpi/image_modal_2.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_acerca_de.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/acerca_de.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_marcocamara.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/marcocamara.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_check_password.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_check_password.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_next_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/next_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_ios_thumb.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/ios_thumb.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_editphoto.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/editphoto.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_right_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/right_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_list_audt_history.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_list_audt_history.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_circle_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/circle_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitems.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitems.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_take_photo_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/take_photo_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_slave_login_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/slave_login_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_americanicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/americanicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_title_email.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/title_email.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_trial_details.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_trial_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_image_modal_2.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-xxxhdpi/image_modal_2.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_cameraiconblue.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/cameraiconblue.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_logouticonn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/logouticonn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitemselect.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemselect.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_info_ic.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/info_ic.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_save.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/save.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_ok_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/ok_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_check_circle.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_dialog_user_password_admin.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/dialog_user_password_admin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_left_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/left_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_editphoto.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/editphoto.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_splash_image.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/splash_image.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_back_arrow_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/back_arrow_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_paypaltitle.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/paypaltitle.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_ok_left_border_button_dialog.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_ok_left_border_button_dialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_pdfreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/pdfreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_icon_nip.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/icon_nip.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_iconmap.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/iconmap.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_human_etime.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/human_etime.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_viewpager_item.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/viewpager_item.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_edituser.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/edituser.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/menu_activity_nav_drawer_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/menu/activity_nav_drawer_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_tablareport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/tablareport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_search.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/search.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_header_user_estaciones_libres.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/header_user_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_paypaltitle.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/paypaltitle.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_ios_thumb.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/ios_thumb.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_exit_to_right.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/exit_to_right.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_filtroreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/filtroreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_navigation_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_register_supervisor.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_register_supervisor.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_checkout_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/checkout_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_location_on.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/location_on.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_icon_language.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/icon_language.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_custom_progressdialog.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/custom_progressdialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_calculadora.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/calculadora.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_modal_4.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/modal_4.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_cardview_free_trail.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/cardview_free_trail.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_cameraiconblue.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/cameraiconblue.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_edituser.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/edituser.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_marco.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/marco.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_splash_image.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/splash_image.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_logout_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/logout_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_icon_admin.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/icon_admin.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_animotion_lottie.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_animotion_lottie.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_menu_camera.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_right_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/right_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_divider.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/divider.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_row_station_free_details.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/row_station_free_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_marco_cam.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/marco_cam.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_marco.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/marco.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_acercade_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/acercade_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_menu_manage.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_search_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/search_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_mapa.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/mapa.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_icon_close.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-mdpi/icon_close.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_checkdone.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/checkdone.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_back.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/back.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_exit_to_left.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/exit_to_left.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_employee_icon_modified.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/employee_icon_modified.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_icon_admin.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/icon_admin.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_employee_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/employee_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_status_estaciones_libres.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/status_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ios_back_drawable.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ios_back_drawable.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_edit.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_checkin_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/checkin_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_menu.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_acercade_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/acercade_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_imagen_finger.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-mdpi/imagen_finger.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_editphoto.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/editphoto.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_ic_credit_card_scan_black_48dp.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/ic_credit_card_scan_black_48dp.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_zoom_in.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/zoom_in.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_title_email.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/title_email.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_filtroreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/filtroreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_employee_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_employee_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_restantes.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/restantes.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_cardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/cardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_icon_user_menu.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/icon_user_menu.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_ios_thumb.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/ios_thumb.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_c_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/c_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-ldpi_image_modal_2.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-ldpi/image_modal_2.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_visacardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/visacardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_borde_redondo_red.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/borde_redondo_red.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_checkdone.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/checkdone.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_admin_photo_mask.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/admin_photo_mask.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_update_photo_admin.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_update_photo_admin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/font_robotoflex.ttf.flat",
+        "source": "com.venturessoft.human.app-main-93:/font/robotoflex.ttf"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_cardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/cardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_save.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/save.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_mastercardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/mastercardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_stations_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_stations_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_d_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/d_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_camerapayment.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/camerapayment.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_editphoto.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/editphoto.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_edit.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/edit.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_confirm_btn_selector.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/confirm_btn_selector.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_tablareport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/tablareport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_anim_enter_left.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/anim_enter_left.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_ic_trial_black.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-xxhdpi/ic_trial_black.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_retry_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/retry_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_number_employee.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_number_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_paypalicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/paypalicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_welcome.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_paypalicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/paypalicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_paypaltitle.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/paypaltitle.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_tutorial_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/tutorial_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_icon_close.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-hdpi/icon_close.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_imagen_finger.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/imagen_finger.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_item_fails_general_error.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_item_fails_general_error.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_generic_dialog.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/generic_dialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_cameraenrol.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/cameraenrol.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_calculadora.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/calculadora.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_icon_nip.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/icon_nip.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_tutorial_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/tutorial_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_edit_administrator.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_administrator.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_marco_cam.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/marco_cam.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_imagen_finger.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/imagen_finger.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitemsreport.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsreport.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_close_yello.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_close_yello.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_checkdone.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/checkdone.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_marcocamara.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/marcocamara.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_b_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/b_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_search_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_welcome_vinculado.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_welcome_vinculado.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_markerventures.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/markerventures.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_filtroreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/filtroreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_consumidos.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/consumidos.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_restantes.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/restantes.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_admin_photo_mask.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/admin_photo_mask.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_image_enterprice_trial.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/image_enterprice_trial.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_pdfreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/pdfreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_checkin_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/checkin_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_forma_fondo_alerta_pago_atrasado__fase_1_.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/forma_fondo_alerta_pago_atrasado__fase_1_.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_icon_company.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/icon_company.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_restantes.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/restantes.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_check_circle_filled.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_check_circle_filled.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_success_lotie.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_success_lotie.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_location_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/location_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_zoom.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_zoom.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_americanicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/americanicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_edit.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/edit.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_ic_trial_black.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-hdpi/ic_trial_black.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_cameraenrol.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/cameraenrol.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_navigation_drawer_item.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/navigation_drawer_item.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_markerventures.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/markerventures.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_repor_by_employee.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_repor_by_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_consumidos.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/consumidos.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_enter_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/enter_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_menu_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/menu_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_cb_custom_buttom_sheet.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/cb_custom_buttom_sheet.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_search.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/search.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_audit_history_filter.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_audit_history_filter.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_ok_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/ok_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_ic_credit_card_scan_black_48dp.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/ic_credit_card_scan_black_48dp.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_take_photo_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/take_photo_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_anim_exit_left.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/anim_exit_left.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_logouticonn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/logouticonn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_slave_logout_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/slave_logout_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_layout_list_history.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_list_history.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_filtroreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/filtroreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_menu_share.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_excelreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/excelreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_left_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/left_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_chrome_icon.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_chrome_icon.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_back_button_checkin_enabled.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/back_button_checkin_enabled.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_header_logo.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/header_logo.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_beacon.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_beacon.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/anim_fade_in.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_cardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/cardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_button_background_blue.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/button_background_blue.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_checkin_btn_selector.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/checkin_btn_selector.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-mdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_paypaltitle.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/paypaltitle.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_selected_station.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_selected_station.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_take_photo_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/take_photo_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_e_t032.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_e_t032.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_slave_login_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/slave_login_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_b_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/b_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_title_email.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/title_email.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_iconmap.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/iconmap.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_profile_photo.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/profile_photo.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_confirm_cancellation.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_confirm_cancellation.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_logoetime.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/logoetime.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_logoetime.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/logoetime.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_register_employee.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_register_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_consumidos.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/consumidos.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_trial.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_trial.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_switch_camera_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/switch_camera_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_enter_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/enter_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_take_photo_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/take_photo_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_navigation_drawer_text_selector.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/navigation_drawer_text_selector.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_login.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/login.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_emailreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/emailreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_save.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/save.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_visacardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/visacardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_cameraiconblue.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/cameraiconblue.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_markerventures.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/markerventures.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_icon_close.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/icon_close.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_title_email.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-mdpi/title_email.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_questionsicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/questionsicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_checkout_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/checkout_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_editphoto.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/editphoto.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_c_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/c_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_ok_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/ok_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_tutorial_icon_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/tutorial_icon_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_paypalicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/paypalicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_marcocamara.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/marcocamara.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_admin_data.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_admin_data.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_icon_language.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/icon_language.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_search.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/search.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_rowsitemsestaciones.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsestaciones.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_marcocamara.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/marcocamara.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_divider.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/divider.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_reports_menu.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_reports_menu.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_excelreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/excelreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_select_zones.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_select_zones.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_update_enterprice.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_update_enterprice.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_title_email.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-hdpi/title_email.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_circle_unselected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/circle_unselected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_c_tutorial.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/c_tutorial.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_right_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/right_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_americanicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/americanicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_mastercardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/mastercardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_logout_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/logout_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_cameraiconblue.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/cameraiconblue.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxxhdpi_ic_trial_black.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-xxxhdpi/ic_trial_black.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_logouticonnun.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/logouticonnun.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_forma_free_trial__fase_1_.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/forma_free_trial__fase_1_.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_switch_camera_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/switch_camera_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_questionsicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/questionsicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_layout_help.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_help.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_register_stations.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_register_stations.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_mastercardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/mastercardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_back_arrow_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/back_arrow_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_consumidos.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/consumidos.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/navigation_create_account_nav.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/navigation/create_account_nav.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_user_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/user_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_excelreport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/excelreport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_e_t029.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_e_t029.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-hdpi_ic_credit_card_scan_black_48dp.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-hdpi/ic_credit_card_scan_black_48dp.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_app_bar_nav_drawer.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/app_bar_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_detalles_estaciones_libres.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_detalles_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_cameraenrol.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/cameraenrol.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_logout_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/logout_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_main_activity_toolbar.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/main_activity_toolbar.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_user_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/user_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_image_modal_2.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-xhdpi/image_modal_2.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_cardview_free_trail_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/cardview_free_trail_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_calendar.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_left_arrow_report.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/left_arrow_report.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_change_password.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_add_.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_add_.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_dialog_expired_time.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/dialog_expired_time.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_ok_button_dialog.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_ok_button_dialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_ok_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/ok_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-mdpi_camerapayment.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-mdpi/camerapayment.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_bordermaps.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/bordermaps.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_item_check_in_out_successful.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_item_check_in_out_successful.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_camera_admin.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_camera_admin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_edit_employee.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_icon_admin.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/icon_admin.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_paypalicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/paypalicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_back_arrow_btn_transparent.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/back_arrow_btn_transparent.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_location_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/location_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_cameraiconblue.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/cameraiconblue.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-hdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-hdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_forma_free_trial__fase_2.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/forma_free_trial__fase_2.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_marco.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/marco.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_confirm_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/confirm_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_ios_thumb_disable.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/ios_thumb_disable.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_layout_beacon_list.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_beacon_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_d_tutorial.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/d_tutorial.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_b_tutorial.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/b_tutorial.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_dialog_white.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_dialog_white.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_splash.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_d_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/d_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_e_t030.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_e_t030.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_changenip_icon_selected.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/changenip_icon_selected.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_tablareport.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/tablareport.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_slave_login_btn.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/slave_login_btn.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xhdpi_search.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xhdpi/search.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxhdpi_logouticonnun.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxhdpi/logouticonnun.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_circleadd.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xhdpi/circleadd.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_item_country.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_shape_dialog.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/shape_dialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_visacardicon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/visacardicon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xxhdpi_nip_icon.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable-xxhdpi/nip_icon.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_layout_license.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_license.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_fragment_location_not_found.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_location_not_found.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-mdpi_ic_trial_black.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-mdpi/ic_trial_black.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/layout_activity_paypal.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_paypal.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable-xhdpi_ic_trial_black.png.flat",
+        "source": "com.venturessoft.human.app-pngs-86:/drawable-xhdpi/ic_trial_black.png"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/drawable_ic_check_bottom_sheet.xml.flat",
+        "source": "com.venturessoft.human.app-main-93:/drawable/ic_check_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-merged_res-91:/mipmap-xxxhdpi_mapa.png.flat",
+        "source": "com.venturessoft.human.app-main-93:/mipmap-xxxhdpi/mapa.png"
+    }
+]

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="@dimen/margin16"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/titleZones"
+        style="@style/TitleToolbar"
+        android:textStyle="bold"
+        android:textColor="@color/secondaryColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/zones_add" />
+
+    <TextView
+        style="@style/Body1_Regular"
+        android:textColor="@color/secondaryColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin16"
+        android:text="Agrega el nombre de la zona que deseas registrar" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tilZona"
+        style="@style/InputLayoutAdmin"
+        android:layout_width="match_parent"
+        android:hint="@string/zones_description"
+        android:layout_marginTop="@dimen/margin16"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/descriptionZones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLength="55" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin24"
+        android:orientation="horizontal">
+
+        <Button
+            style="@style/ButtonAdmin"
+            android:id="@+id/btnAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin8"
+            android:layout_weight="1"
+            android:text="@string/add" />
+
+        <Button
+            style="@style/ButtonEtime3"
+            android:id="@+id/btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin8"
+            android:layout_weight="1"
+            android:text="@string/cancel" />
+
+    </LinearLayout>
+
+</LinearLayout>

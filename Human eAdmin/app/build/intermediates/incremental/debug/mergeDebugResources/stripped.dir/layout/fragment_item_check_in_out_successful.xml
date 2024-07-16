@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.ui.fragments.AuditHistory.ItemCheckInOutSuccessFragment">
+
+    <Button
+        android:id="@+id/btnBackItemCheckInOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/detailsText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="32dp"
+                android:text="@string/details_audit_label_detalle"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_xlarge_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/checkStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:autoSizeMinTextSize="18sp"
+                android:gravity="center"
+                android:maxLines="4"
+                android:text="@string/audit_history_successful"
+                android:textColor="@color/mTurqoise"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/detailsText" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/usernameText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:autoSizeMinTextSize="18sp"
+                android:gravity="center"
+                android:maxLines="4"
+                android:text="Ana Paula Rojas Ruiz"
+                android:textColor="@color/mTurqoise"
+                android:textSize="22sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkStatus" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/movText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Entrada 11/03/2021 08:30:57"
+                android:textColor="@color/secondaryColor"
+                android:textSize="22sp"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/usernameText" />
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textView5"
+                style="@style/Body1_bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:text="@string/details_audit_company"
+                android:textColor="@color/secondaryColor"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/movText" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/idNumCompany"
+                style="@style/Caption_Regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12"
+                android:textColor="@color/numEmployee"
+                app:layout_constraintBottom_toBottomOf="@+id/textView5"
+                app:layout_constraintStart_toStartOf="@+id/idNumEmp"
+                app:layout_constraintTop_toTopOf="@+id/textView5" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/textView6"
+                style="@style/Body1_bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin8"
+                android:text="@string/details_audit_employee"
+                android:textColor="@color/secondaryColor"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/textView5"
+                app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/dateCheck"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin8"
+                android:text="@string/details_audit_date_check"
+                android:textColor="@color/secondaryColor"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/textView6"
+                app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/idNumEmp"
+                style="@style/Caption_Regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="65dp"
+                android:text="12"
+                android:textColor="@color/numEmployee"
+                app:layout_constraintBottom_toBottomOf="@+id/textView6"
+                app:layout_constraintStart_toEndOf="@+id/textView6"
+                app:layout_constraintTop_toTopOf="@+id/textView6" />
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtDateCheck"
+                style="@style/Caption_Regular"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11/03/2021 08:30:57"
+                android:textColor="@color/numEmployee"
+                app:layout_constraintStart_toStartOf="@+id/idNumEmp"
+                app:layout_constraintTop_toTopOf="@+id/dateCheck" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtDevice"
+                style="@style/Body1_bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin8"
+                android:text="@string/dispositivo"
+                android:textColor="@color/secondaryColor"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/textView6"
+                app:layout_constraintTop_toBottomOf="@+id/dateCheck" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/device"
+                style="@style/Caption_Regular"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:maxLines="2"
+                android:text="$Xiaomi Redmi Note 9S/ee646185408b7963"
+                android:textColor="@color/numEmployee"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/txtCodigo"
+                app:layout_constraintTop_toTopOf="@+id/txtDevice" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtEstacion"
+                style="@style/Body1_bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin8"
+                android:text="@string/est_libres_estacion"
+                android:textColor="@color/secondaryColor"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/textView6"
+                app:layout_constraintTop_toBottomOf="@+id/txtDevice" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/estacion"
+                style="@style/Caption_Regular"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="10dp"
+                android:maxLines="2"
+                android:text="Estacion asignada"
+                android:textColor="@color/numEmployee"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/txtCodigo"
+                app:layout_constraintTop_toTopOf="@+id/txtEstacion" />
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtET"
+                style="@style/Body1_bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin8"
+                android:text="ET000 :"
+                android:textColor="@color/secondaryColor"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/textView6"
+                app:layout_constraintTop_toBottomOf="@+id/txtEstacion" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txtCodigo"
+                style="@style/Caption_Regular"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:maxLines="5"
+                android:text="@string/ET000"
+                android:textColor="@color/numEmployee"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/txtDateCheck"
+                app:layout_constraintTop_toTopOf="@+id/txtET" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/photoTake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="32dp"
+                android:text="@string/details_audit_photo_check"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_xlarge_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtCodigo" />
+
+            <FrameLayout
+                android:id="@+id/userImageCheck"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="12dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/photoTake">
+
+                <ImageView
+                    android:id="@+id/employePhotoCheck"
+                    android:layout_width="149dp"
+                    android:layout_height="149dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/user_icon" />
+
+                <ImageView
+                    android:id="@+id/employeeImageCheck"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/admin_photo_mask" />
+
+            </FrameLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

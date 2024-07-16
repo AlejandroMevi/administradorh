@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:background="@color/miWhite"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgAvatarEmployeeStation"
+        android:layout_width="110dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/txtViewNameTypeStation"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txtViewStation"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/venturescolor"
+        tools:srcCompat="@tools:sample/avatars"/>
+
+    <TextView
+        android:id="@+id/txtViewStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/name_title_station"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/imgAvatarEmployeeStation"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtViewNameStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="Estación Dummy"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/txtViewStation"
+        app:layout_constraintStart_toEndOf="@+id/txtViewStation"
+        app:layout_constraintTop_toTopOf="@+id/txtViewStation"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txtViewIdEmployee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="4 Dummy"
+        android:textColor="@color/venturescolor"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/txtViewStation"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewStation" />
+
+    <TextView
+        android:id="@+id/dateCheckStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/details_audit_date_check"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/txtViewIdEmployee"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewIdEmployee" />
+
+    <TextView
+        android:id="@+id/txtDateCheckStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="11/03/2021 08:30:57"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/dateCheckStation"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewNameEmployee" />
+
+    <TextView
+        android:id="@+id/txtViewNameEmployee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="Rafael Villa Hernández"
+        android:textColor="@color/venturescolor"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/txtViewIdEmployee"
+        app:layout_constraintStart_toEndOf="@+id/txtViewIdEmployee"
+        app:layout_constraintTop_toTopOf="@+id/txtViewIdEmployee" />
+
+    <TextView
+        android:id="@+id/txtViewType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/name_title_type"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/dateCheckStation"
+        app:layout_constraintTop_toBottomOf="@+id/dateCheckStation" />
+
+    <TextView
+        android:id="@+id/txtViewNameTypeStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:maxLines="5"
+        android:text="@string/ET030"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/txtViewType"
+        app:layout_constraintTop_toBottomOf="@+id/txtDateCheckStation" />
+
+    <LinearLayout
+        android:id="@+id/frameMapsEditStation"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:clickable="true"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewNameTypeStation">
+
+        <FrameLayout
+            android:id="@+id/fragmentLayoutStationFree"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="10dp">
+
+
+        </FrameLayout>
+
+
+
+        <!--<FrameLayout
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp">
+
+            <fragment
+                android:id="@+id/mapDetailsStation"
+                class="com.venturessoft.human.views.ui.fragments.Stations.WorkaroundMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".views.ui.fragments.ReportFragment.ReportDetailsStationFree" />
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center"
+                android:contentDescription="@null"
+                android:src="@mipmap/markerventures"
+                android:visibility="gone" />-->
+
+            <!--<com.google.android.gms.maps.MapView
+            android:id="@+id/list_item_map_view_mapview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />-->
+
+            <!--<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center"></LinearLayout>
+        </FrameLayout>-->
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

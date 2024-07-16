@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.ui.fragments.Settings.ConfirmCancellationFragment">
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin16"
+        android:layout_marginVertical="@dimen/margin24"
+        android:alpha="0.87"
+        android:textAlignment="center"
+        android:letterSpacing="0.01"
+        android:lineSpacingExtra="-1sp"
+        android:text="@string/bottom_sheet_delete_title"
+        android:textColor="#10568B"
+        android:textSize="@dimen/text_medium_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_goneMarginStart="@dimen/margin16"
+        android:layout_marginEnd="@dimen/margin16"
+        android:layout_marginVertical="@dimen/margin24"
+        android:layout_marginStart="16dp"
+        android:gravity="center_vertical"
+        android:lineSpacingExtra="2sp"
+        android:text="@string/bottom_sheet_delete_text"
+        android:textColor="#405B75"
+        android:textSize="@dimen/text_medium_size_16"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+    <LinearLayout
+        android:id="@+id/linearTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin16"
+        android:layout_marginVertical="@dimen/margin24"
+        android:visibility="gone"
+        android:background="@drawable/cardview_background_yellow"
+        app:cardCornerRadius="@dimen/margin8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout21">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:gravity="center_vertical"
+            android:letterSpacing="0.02"
+            android:lineSpacingExtra="5sp"
+            android:text="@string/bottom_sheet_delete_layout"
+            android:textColor="#C2933E"
+            android:textSize="@dimen/text_14_size" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin16"
+        android:layout_marginTop="@dimen/margin24"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView15">
+
+        <CheckBox
+            android:id="@+id/check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin16"
+            android:button="@drawable/cb_custom_buttom_sheet" />
+
+        <TextView
+            android:id="@+id/checkTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:letterSpacing="0.03"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/bottom_sheet_delete_check"
+            android:textColor="#405B75"
+            android:textSize="@dimen/text_medium_size_16"
+            android:translationY="-1.11sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_acept"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginHorizontal="@dimen/margin16"
+        android:layout_marginTop="@dimen/margin40"
+        android:background="@drawable/button_background_blue"
+        android:gravity="center_horizontal|center_vertical"
+        android:letterSpacing="0.08"
+        android:lineSpacingExtra="1sp"
+        android:elevation="0dp"
+        android:padding="14dp"
+        android:text="@string/bottom_sheet_delete_button"
+        android:textAllCaps="false"
+        android:textColor="@color/miWhite"
+        android:textSize="@dimen/text_medium_size_16"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearTxt" />
+
+    <TextView
+        android:id="@+id/btnContinue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin16"
+        android:layout_marginTop="@dimen/margin16"
+        android:layout_marginBottom="@dimen/margin24"
+        android:background="@drawable/button_background_white"
+        android:gravity="center_horizontal|top"
+        android:letterSpacing="0.08"
+        android:lineSpacingExtra="1sp"
+        android:padding="10dp"
+        android:text="@string/bottom_sheet_delete_button_continue"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/text_medium_size_16"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_acept"
+        app:layout_constraintVertical_bias="0.16000003" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

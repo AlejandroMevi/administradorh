@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DIN_Bold" translatable="false">fonts/DIN_Bold.ttf</string>
+    <string name="DIN_Black" translatable="false">fonts/DIN_Black.ttf</string>
+    <string name="DIN_Regular" translatable="false">fonts/DIN_Regular.ttf</string>
+    <string name="DIN_Medium" translatable="false">fonts/DIN_Medium.ttf</string>
+    <string name="DIN_Light" translatable="false">fonts/DIN_Light.ttf</string>
+    <string name="AvenirLTStd_Black" translatable="false">fonts/AvenirLTStd_Black.ttf</string>
+    <string name="AvenirLTStd_Light" translatable="false">fonts/AvenirLTStd_Light.ttf</string>
+    <string name="AvenirLTStd_Medium" translatable="false">fonts/AvenirLTStd_Medium.otf</string>
+    <string name="AvenirLTStd_MediumOblique" translatable="false">fonts/AvenirLTStd_MediumOblique.otf</string>
+    <string name="Avenir_Medium" translatable="false">fonts/AvenirLTStd_Medium.otf</string>
+    <string name="Avenir_Medium_Oblique" translatable="false">fonts/AvenirLTStd_MediumOblique.otf</string>
+
+    <integer name="normalFieldMaxLength">45</integer>
+    <integer name="nipFieldMaxLength">4</integer>
+    <integer name="employeeFieldMaxLength">15</integer>
+    <integer name="employeeFieldMaxLength_nip">4</integer>
+
+
+</resources>

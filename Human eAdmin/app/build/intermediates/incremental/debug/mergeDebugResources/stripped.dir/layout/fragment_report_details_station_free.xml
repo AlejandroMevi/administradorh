@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.ui.fragments.ReportFragment.ReportDetailsStationFree">
+
+    <Button
+        android:id="@+id/btnBackListReportStationFree"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@drawable/back_arrow_btn"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/body_report"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/employeereportreciclerstation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_heightPercent="@dimen/margin_100_percent">
+
+        <include
+            android:id="@+id/loadingAnimationStationFree"
+            android:visibility="gone"
+            layout="@layout/view_loading_new" />
+    </LinearLayout>
+
+</androidx.percentlayout.widget.PercentRelativeLayout>

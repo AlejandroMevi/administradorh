@@ -1,0 +1,25 @@
+<resources>
+    <integer-array name="array_icons">
+       <item>@drawable/a_icon</item>
+        <item>@drawable/b_icon</item>
+        <item>@drawable/c_icon</item>
+        <item>@drawable/d_icon</item>
+    </integer-array>
+
+
+    <string-array name="array_navigation_drawer_titles">
+        <item>@string/side_menu_title_1</item>
+        <item>@string/side_menu_title_2</item>
+
+    </string-array>
+    <integer-array name="array_navigation_drawer_icons_unselected">
+        <item>@drawable/changenip_icon_unselected</item>
+        <item>@drawable/acercade_icon_unselected</item>
+
+    </integer-array>
+    <integer-array name="array_navigation_drawer_icons_selected">
+        <item>@drawable/changenip_icon_selected</item>
+        <item>@drawable/acercade_icon_selected</item>
+
+    </integer-array>
+</resources>

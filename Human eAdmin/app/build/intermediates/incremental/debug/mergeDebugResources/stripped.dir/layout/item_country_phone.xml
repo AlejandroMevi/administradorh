@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat android:id="@+id/content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+<!--
+    <ImageView
+        android:id="@+id/imageCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:src="@drawable/acercade_icon_selected" />-->
+
+    <TextView
+        android:id="@+id/codeCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginStart="16dp"
+        tools:text="+52" />
+
+    <TextView
+        android:id="@+id/nameCountry"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:layout_margin="16dp"
+        tools:text="Mexico" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/dateandtime"
+        style="@style/Body1_Regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/secondaryColor"
+        />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/employeeNumber"
+        style="@style/Body1_Regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/secondaryColor" />
+
+    <LinearLayout
+        android:id="@+id/tipoMovLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/typemov"
+            style="@style/Body2_regular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/secondaryColor" />
+        <!-- Exitoso-->
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/statusMov"
+            style="@style/Body2_regular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/tipoMovLinear"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text=""
+            android:textColor="@color/secondaryColor" />
+    </LinearLayout>
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/codigoET"
+        style="@style/Caption_Regular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/colorGray3"
+        android:visibility="visible" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/numCia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="02/10/2019 08:50:50"
+        android:textColor="@color/mBlack"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/idEmp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/secondaryColor"
+        style="@style/Body1_Regular"
+        android:visibility="gone" />
+</LinearLayout>

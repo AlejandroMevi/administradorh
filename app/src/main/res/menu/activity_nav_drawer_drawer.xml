@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center_horizontal"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_companyData"
+            android:icon="@drawable/menu_icon_company"
+            android:title="@string/side_menu_title_1" />
+        <item
+            android:id="@+id/payments"
+            android:icon="@drawable/iconmenupay"
+            android:title="@string/side_menu_title_9" />
+        <item
+            android:id="@+id/nav_Supervisores"
+            android:icon="@drawable/menu_icon_supervisor"
+            android:title="@string/side_menu_title_3" />
+        <item
+            android:id="@+id/nav_Zone"
+            android:icon="@drawable/menu_icon_zonas"
+            android:title="@string/side_menu_title_2" />
+        <item
+            android:id="@+id/nav_Estaciones"
+            android:icon="@drawable/menu_icon_estaciones"
+            android:title="@string/side_menu_title_6" />
+        <item
+            android:id="@+id/nav_mantEmp"
+            android:icon="@drawable/icon_user_menu"
+            android:title="@string/side_menu_title_4" />
+        <item
+            android:id="@+id/nav_AuditHistory"
+            android:icon="@drawable/menu_icon_history_audit"
+            android:title="@string/side_menu_title_12" />
+        <item
+            android:id="@+id/nav_PhotographyAuthorization"
+            android:icon="@drawable/photo_camera"
+            android:title="@string/side_menu_title_13" />
+        <item
+            android:id="@+id/nav_Reportes"
+            android:icon="@drawable/menu_icon_reportes"
+            android:title="@string/side_menu_title_5" />
+        <item
+            android:id="@+id/change_nip"
+            android:icon="@drawable/menu_icon_change_password"
+            android:title="@string/side_menu_title_7" />
+        <item
+            android:id="@+id/nav_About"
+            android:icon="@drawable/acerca_de"
+            android:title="@string/side_menu_title_11" />
+        <item
+            android:id="@+id/nav_Settings"
+            android:icon="@drawable/settingsss"
+            android:title="@string/side_menu_title_10" />
+    </group>
+
+    <group android:id="@+id/footer">
+        <item
+            android:id="@+id/nav_closed"
+            android:icon="@drawable/saliriconn"
+            android:title="@string/side_menu_title_8" />
+    </group>
+</menu>

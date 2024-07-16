@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:padding="16dp"
+    android:id="@+id/navigation"
+    tools:context=".views.ui.fragments.welcome.TrialDetailsFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_close"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/mBlack" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/appCompatImageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/image_modal_2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/appCompatImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/human_etime"
+            android:layout_marginTop="8dp"
+            android:tint="@color/mBlack"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/appCompatImageView2" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/freetrial"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/ic_trial_black"
+            app:layout_constraintBottom_toBottomOf="@+id/appCompatImageView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/appCompatImageView" />
+
+        <TextView
+            android:id="@+id/textView_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#405B75"
+            android:layout_marginTop="24dp"
+            android:gravity="center"
+            android:lineSpacingExtra="2sp"
+            android:alpha="0.87"
+            android:letterSpacing="0.03"
+            android:text="@string/enterprice_actualiza"
+            app:layout_constraintTop_toBottomOf="@+id/freetrial" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/icator1"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_check_circle"
+            android:tint="@color/mTurqoise"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textindicator1" />
+
+        <TextView
+            android:id="@+id/textindicator1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:textSize="14sp"
+            android:paddingVertical="2.5dp"
+            android:textColor="#405B75"
+            android:alpha="0.87"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/enterprice_indicador_uno"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/icator1"
+            app:layout_constraintTop_toBottomOf="@+id/textView_1" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/icator2"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_check_circle"
+            android:tint="@color/mTurqoise"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textindicator2" />
+
+        <TextView
+            android:id="@+id/textindicator2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textSize="14sp"
+            android:paddingVertical="2.5dp"
+            android:textColor="#405B75"
+            android:alpha="0.87"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/enterprice_indicador_dos"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/icator1"
+            app:layout_constraintTop_toBottomOf="@+id/textindicator1" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/icator3"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_check_circle"
+            android:tint="@color/mTurqoise"
+            app:layout_constraintBottom_toBottomOf="@+id/textindicator3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textindicator3" />
+
+        <TextView
+            android:id="@+id/textindicator3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textSize="14sp"
+            android:paddingVertical="2.5dp"
+            android:textColor="#405B75"
+            android:alpha="0.87"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/enterprice_indicador_tres"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/icator1"
+            app:layout_constraintTop_toBottomOf="@+id/textindicator2" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/icator4"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_check_circle"
+            android:tint="@color/mTurqoise"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textindicator4" />
+
+        <TextView
+            android:id="@+id/textindicator4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textSize="14sp"
+            android:textColor="#405B75"
+            android:paddingVertical="2.5dp"
+
+            android:alpha="0.87"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/enterprice_indicador_cuatro"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/icator1"
+            app:layout_constraintTop_toBottomOf="@+id/textindicator3" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/icator5"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_check_circle"
+            android:tint="@color/mTurqoise"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textindicator5" />
+
+        <TextView
+            android:id="@+id/textindicator5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textSize="14sp"
+            android:textColor="#405B75"
+            android:alpha="0.87"
+            android:paddingVertical="2.5dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/enterprice_indicador_cinco"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/icator1"
+            app:layout_constraintTop_toBottomOf="@+id/textindicator4" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/icator6"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_check_circle"
+            android:tint="@color/mTurqoise"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textindicator6" />
+
+        <TextView
+            android:id="@+id/textindicator6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textSize="14sp"
+            android:paddingVertical="2.5dp"
+            android:textColor="#405B75"
+            android:alpha="0.87"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/enterprice_indicador_seis"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/icator1"
+            app:layout_constraintTop_toBottomOf="@+id/textindicator5" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#d9eff2"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="0dp"
+            android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@+id/textindicator6"
+            tools:layout_editor_absoluteX="10dp">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/shape_card_green"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/textindicator7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="#7E90A0"
+                    android:text="@string/enterprice_indicador_siete"
+                    android:textSize="12sp"
+                    android:letterSpacing="0.02"
+                    android:lineSpacingExtra="0sp"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textindicator8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/enterprice_indicador_ocho"
+                    android:textColor="@color/mTurqoise"
+                    android:textSize="18sp"
+                    android:letterSpacing="0.01"
+                    android:lineSpacingExtra="-1sp"
+                    android:textStyle="bold"
+                    app:layout_constraintTop_toBottomOf="@+id/textindicator7"/>
+
+                <TextView
+                    android:id="@+id/textindicator9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/enterprice_indicador_nueve"
+                    android:textSize="12sp"
+                    android:letterSpacing="0.03"
+                    android:lineSpacingExtra="0sp"
+                    android:textColor="#7E90A0"
+                    app:layout_constraintTop_toBottomOf="@+id/textindicator8" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/linearLayoutCompat"
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:layout_marginTop="34dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/alert"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:adjustViewBounds="true"
+                android:layout_gravity="center"
+                android:src="@drawable/error_yellow" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginStart="8dp"
+                android:layout_gravity="center"
+                android:text="@string/enterprice_expiracion"
+                android:textColor="#C2933E"
+                android:textSize="12sp" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <Button
+            android:id="@+id/btn_acept"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:backgroundTint="@color/mTurqoise"
+            android:text="@string/enterprice_actualizar_a_entrerprise"
+            android:textAllCaps="false"
+            android:textColor="@color/miWhite"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayoutCompat"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <TextView
+            android:id="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="12dp"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:text="@string/enterprice_continuar_prueba"
+            android:textColor="@color/mTurqoise"
+            android:lineSpacingExtra="2sp"
+            android:letterSpacing="0.08"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_acept" />
+
+        <TextView
+            android:id="@+id/textindicator10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/enterprice_renovacion_manual"
+            android:layout_marginTop="12dp"
+            android:textSize="12sp"
+            android:lineSpacingExtra="0sp"
+            android:alpha="0.87"
+            android:textColor="#ABB8C3"
+            android:letterSpacing="0.03"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_close" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

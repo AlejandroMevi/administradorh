@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        app:layout_heightPercent="@dimen/margin_100_percent">
+
+        <ListView
+            android:id="@+id/navigationDrawerListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:choiceMode="singleChoice"
+            android:divider="@null"
+            android:dividerHeight="5dp"
+            android:scrollbars="none" />
+
+    </LinearLayout>
+</androidx.percentlayout.widget.PercentFrameLayout>

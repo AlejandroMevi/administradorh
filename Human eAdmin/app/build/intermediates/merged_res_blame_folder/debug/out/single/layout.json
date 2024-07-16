@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_register_supervisor.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_register_supervisor.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/simple_spinner_etime.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/simple_spinner_etime.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_location_not_found.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_location_not_found.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_zones_list.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_zones_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_edit_administrator.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_administrator.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_change_password.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_audit_history_filter.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_audit_history_filter.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_company_data.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_company_data.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_report.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_nav_drawer.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitemsestaciones.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsestaciones.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_view_image.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_view_image.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_select_zones.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_select_zones.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/app_bar_nav_drawer.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/app_bar_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_data_user.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_data_user.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_update_enterprice.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_update_enterprice.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_reports_menu.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_reports_menu.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_forgot_nip.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_forgot_nip.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/item_trial_details.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/item_trial_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_edit_supervisors.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_supervisors.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_change_nip.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_change_nip.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_repor_by_employee.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_repor_by_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/dialog_new_category.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/dialog_new_category.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_data_company.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_data_company.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitemsreportemployee.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsreportemployee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_camera.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_modal_log_out.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_modal_log_out.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/cardview_free_trail_list.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/cardview_free_trail_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_paypal.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_paypal.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_list_audt_history.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_list_audt_history.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_enterprice_details.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_enterprice_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_employee_list.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_employee_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_home.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/custom_progressdialog.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/custom_progressdialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_item_fails_general_error.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_item_fails_general_error.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_edit_employee.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/navigation_drawer_fragment.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/navigation_drawer_fragment.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_paypal_succes.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_paypal_succes.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/dialog_user_password_admin.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/dialog_user_password_admin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_welcome_vinculado.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_welcome_vinculado.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_update_photo.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_update_photo.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_selected_station.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_selected_station.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/generic_dialog.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/generic_dialog.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/item_country.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/layout_help.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_help.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/viewpager_item.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/viewpager_item.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/cardview_free_trail.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/cardview_free_trail.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_maps2.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_maps2.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_about_us.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/header_user_estaciones_libres.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/header_user_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/general_spinner.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/general_spinner.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_admin_data.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_admin_data.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_detalles_estaciones_libres.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_detalles_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitems.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitems.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/item_country_phone.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/item_country_phone.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/nav_header_nav_drawer.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/nav_header_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_splash.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_stations_list.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_stations_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_view_image.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_view_image.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/main_activity_toolbar.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/main_activity_toolbar.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitemselect.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemselect.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitemsmaintenance.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsmaintenance.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_e_t029.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_e_t029.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_enroll__unenroll__report.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_enroll__unenroll__report.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_welcome.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_number_employee.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_number_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/layout_license.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_license.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_report_view.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_report_view.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_animotion_lottie.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_animotion_lottie.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_company_data.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_company_data.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/dialog_expired_time.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/dialog_expired_time.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_filter_report.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_filter_report.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_report_details_station_free.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_report_details_station_free.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitemsreport.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemsreport.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/layout_list_history.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_list_history.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_way_to_pay.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_way_to_pay.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_edit_stations.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_edit_stations.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_update_photo_admin.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_update_photo_admin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_success_lotie.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_success_lotie.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/rowsitemssuper.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/rowsitemssuper.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_e_t032.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_e_t032.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/reports_menu_adapter.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/reports_menu_adapter.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_modal_generic.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_modal_generic.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_supervisors_list.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_supervisors_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/activity_login.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/content_nav_drawer.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/content_nav_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/view_loading_new.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/view_loading_new.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_trial_details.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_trial_details.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/list_item_estaciones_libres.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/list_item_estaciones_libres.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_e_t030.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_e_t030.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/navigation_drawer.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/layout_toolbar_view_image.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_toolbar_view_image.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_settings.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_register_stations.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_register_stations.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_item_check_in_out_successful.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_item_check_in_out_successful.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_confirm_cancellation.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_confirm_cancellation.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/layout_beacon_list.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/layout_beacon_list.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_register_employee.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_register_employee.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/navigation_drawer_item.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/navigation_drawer_item.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/fragment_camera_admin.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/fragment_camera_admin.xml"
+    },
+    {
+        "merged": "com.venturessoft.human.app-mergeDebugResources-90:/layout/row_station_free_details.xml",
+        "source": "com.venturessoft.human.app-main-93:/layout/row_station_free_details.xml"
+    }
+]

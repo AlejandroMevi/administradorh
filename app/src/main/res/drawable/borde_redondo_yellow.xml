@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape android:shape="rectangle"  >
+            <corners android:radius="10dp" />
+            <stroke android:width="1dip" android:color="@color/card_free_expired_day_1_to_7" />
+            <solid android:color="@color/miWhite" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginright">20dp</dimen>
+    <dimen name="marginleft">20dp</dimen>
+    <dimen name="margin_xsmall">5dp</dimen>
+    <dimen name="margin_small_size">10dp</dimen>
+    <dimen name="margin_medium_size">15dp</dimen>
+    <dimen name="margin_large_medium">16dp</dimen>
+    <dimen name="margin_large_size">20dp</dimen>
+    <dimen name="margin_medium_max_size">20dp</dimen>
+    <dimen name="margin_large_size_purchase">22dp</dimen>
+    <dimen name="margin_extra_large_size">50dp</dimen>
+    <dimen name="margin_xlarge_size">40dp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="text_small_size">16sp</dimen>
+    <dimen name="navigation_drawer_shadow_width">15dp</dimen>
+    <dimen name="navigation_drawer_offset">60dp</dimen>
+    <dimen name="text_xlarge_size">24sp</dimen>
+    <dimen name="text_large_size">22sp</dimen>
+    <dimen name="text_medium_size">18sp</dimen>
+    <dimen name="text_medium_size_16">16sp</dimen>
+    <dimen name="text_xsmall_size">12sp</dimen>
+    <dimen name="text_15_size">15sp</dimen>
+    <dimen name="text_14_size">14sp</dimen>
+    <dimen name="header_size">60dp</dimen>
+    <dimen name="fragment_side_padding">30dp</dimen>
+    <dimen name="fragment_container_padding">10dp</dimen>
+
+
+    <dimen name="fragment_welcome_padding">110dp</dimen>
+
+    <dimen name="margin40">40dp</dimen>
+    <dimen name="margin24">24dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_subtitle">16sp</dimen>
+    <dimen name="text_header">14sp</dimen>
+    <dimen name="text_body">12sp</dimen>
+    <!-- dimen porcent-->
+    <dimen name="margin_0_percent">0%</dimen>
+    <dimen name="margin_1_percent">1%</dimen>
+    <dimen name="margin_5_percent">5%</dimen>
+    <dimen name="margin_10_percent">10%</dimen>
+    <dimen name="margin_15_percent">15%</dimen>
+    <dimen name="margin_20_percent">20%</dimen>
+    <dimen name="margin_25_percent">25%</dimen>
+    <dimen name="margin_30_percent">30%</dimen>
+    <dimen name="margin_35_percent">35%</dimen>
+    <dimen name="margin_40_percent">40%</dimen>
+    <dimen name="margin_45_percent">45%</dimen>
+    <dimen name="margin_50_percent">50%</dimen>
+    <dimen name="margin_55_percent">55%</dimen>
+    <dimen name="margin_60_percent">60%</dimen>
+    <dimen name="margin_65_percent">65%</dimen>
+    <dimen name="margin_70_percent">70%</dimen>
+    <dimen name="margin_75_percent">75%</dimen>
+    <dimen name="margin_80_percent">80%</dimen>
+    <dimen name="margin_85_percent">85%</dimen>
+    <dimen name="margin_90_percent">90%</dimen>
+    <dimen name="margin_95_percent">95%</dimen>
+    <dimen name="margin_100_percent">100%</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="design_navigation_icon_size">27dp</dimen>
+</resources>

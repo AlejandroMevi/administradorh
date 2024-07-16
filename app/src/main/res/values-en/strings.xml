@@ -1,0 +1,929 @@
+<resources>
+    <string name="app_name">Human eTime Admin</string>
+    <string name="apiKey">AIzaSyB39xIrI54yuyaaXH9XuMctRfDKgmPcKj4</string>
+
+    <!-- LoginActivity -->
+    <string name="a_login_text_admin">Admin</string>
+    <string name="a_login_text_language">Language</string>
+    <string name="a_login_text_cia">Company</string>
+    <string name="a_login_text_email">Email</string>
+    <string name="a_login_text_password">Password</string>
+    <string name="a_login_text_select_cia">Select a company</string>
+    <string name="a_login_toast_select_cia">Please select a company.</string>
+    <string name="a_login_link_new_account">Create account</string>
+    <string name="a_login_link_recover_password">Recover password</string>
+    <string name="a_login_btn_enter">"Login"</string>
+    <string name="a_login_error_access_user">The user does not have administrator privileges.</string>
+    <string name="a_login_error_email_empty">Please enter your email.</string>
+    <string name="a_login_error_nip_empty">Please enter your password.</string>
+    <string name="a_login_error_email_valids">Please enter a valid email.</string>
+    <string name="log_in">Log in</string>
+    <string name="login_botton_enter">To access</string>
+    <string name="login_text_recover">Couldn\'t access your account?</string>
+    <string name="login_email">User</string>
+    <string name="login_password">Password</string>
+
+    <!-- AdminDataActivity-EditAdministradorFragment -->
+    <string name="data_admin_form_title">Administrator data</string>
+    <string name="data_admin_name">Name</string>
+    <string name="data_admin_title_amaterno">(Optional)</string>
+    <string name="data_admin_title_apaterno">Last name</string>
+    <string name="data_admin_title_phone">Phone</string>
+    <string name="data_admin_title_email">Email</string>
+    <string name="data_admin_title_password">Password</string>
+    <string name="data_admin_title_confirm_password">Confirm password</string>
+    <string name="data_admin_title_btn_next">Next</string>
+    <string name="data_admin_title_btn_save">Save</string>
+    <string name="data_admin_dialog_user_password_title">Enter your password</string>
+    <string name="data_admin_dialog_user_password_place_holder">Enter your password or access pin</string>
+    <string name="msg_success_admin">Your PIN has sent an email.</string>
+
+    <!--Activity DataCompany-->
+    <string name="data_company_title_register">Account registration</string>
+    <string name="data_company_form_title">Company data</string>
+    <string name="data_company_title_name">Company key</string>
+    <string name="data_company_title_bussines_name">Company name</string>
+    <string name="data_company_title_rfc">Tax number</string>
+    <string name="data_company_title_address">Address</string>
+    <string name="data_company_title_email">"Email to recieve invoices"</string>
+    <string name="data_company_title_country">Country</string>
+    <string name="data_company_title_phone_number">Phone (Optional)</string>
+    <string name="data_company_phone_code">Code</string>
+    <string name="data_company_interior_number">Internal number(Optional)</string>
+    <string name="data_company_outdoor_address">Outdoor number</string>
+    <string name="data_company_title_phone_code">Code</string>
+    <string name="data_company_street">Street</string>
+    <string name="data_company_title_btn_next">Save</string>
+    <string name="data_company_title_lenguage">Country / Region and language</string>
+    <string name="data_company_lenguaje_selected">Language</string>
+
+    <!-- Activity ForgotNip -->
+    <string name="message_title_forgot_nip">Recover password</string>
+    <string name="button_reset_nip">"Retrieve"</string>
+
+    <!-- Activity ChangeNipVinculado -->
+    <string name="current_nip">Current password</string>
+    <string name="new_nip">New password</string>
+    <string name="confirm_nip">Confirm new password</string>
+    <string name="title_curp">SSN</string>
+    <string name="title_rfc">TIN</string>
+
+    <!-- Activity NavigationDrawer -->
+    <string name="side_menu_title_1">Company data</string>
+    <string name="side_menu_title_2">Zones</string>
+    <string name="side_menu_title_3">Supervisors</string>
+    <string name="side_menu_title_4">Employees</string>
+    <string name="side_menu_title_5">Reports</string>
+    <string name="side_menu_title_6">Station</string>
+    <string name="side_menu_title_7">Change password</string>
+    <string name="side_menu_title_8">Sign off</string>
+    <string name="side_menu_title_9">Buy</string>
+    <string name="side_menu_logout_title_9">Not you?</string>
+    <string name="side_menu_title_10">Settings</string>
+    <string name="side_menu_title_11">About us</string>
+    <string name="side_menu_title_12">Audit history</string>
+
+    <!-- Autoriszacion de fotografia -->
+    <string name="side_menu_title_13">Photography authorization</string>
+    <string name="autorizar">Authorize</string>
+    <string name="rechazar">Decline</string>
+    <string name="no_existen_registros">There are no records</string>
+    <string name="fotografia_local">Cell phone photography storage</string>
+
+    <!-- Activity WayToPay -->
+    <string name="title_activity_way_to_pay">WayToPay</string>
+    <string name="data_admin_num_check">Number of records</string>
+    <string name="data_admin_num_check_text">Number of records (records are calculated by the number of employees who record at least one punch per day).</string>
+    <string name="way_to_pay_subtotal">Subtotal:</string>
+    <string name="way_to_pay_title">Way to pay</string>
+    <string name="way_to_pay_opt_1">"Credit / Debit Card"</string>
+    <string name="way_to_pay_opt_2">PayPal</string>
+    <string name="way_to_pay_iva">VAT:</string>
+    <string name="way_to_pay_total">Total:</string>
+    <string name="way_to_pay_facturacion">Billing</string>
+    <string name="way_to_pay_preauthorization_message">"For your security, we will pre-authorize a charge of up to $1.00 USD on your card. Don't worry, it's just a verification and the money won't be debited from your account."</string>
+    <string name="way_to_pay_continue_pay">Continue shopping</string>
+    <string name="way_to_pay_detail_payment">Buy Balance</string>
+    <string name="way_to_pay_credit_card">Debit / Credit</string>
+    <string name="way_to_pay_credit_name">Cardholder</string>
+    <string name="way_to_pay_credit_number">Card number</string>
+    <string name="way_to_pay_cvv">CVV</string>
+    <string name="way_to_pay_date">Date of expiry</string>
+    <string name="way_offline_message_1">There are pending purchases to process. Do you want to send the pending purchases?</string>
+    <string name="way_offline_message_2">Are you sure you don t want to send the pending purchases?</string>
+    <string name="way_offline_message_3">Your purchase is being processed, as soon as the purchase service is reestablished, your data will be recorded</string>
+
+
+    <!-- Fragment Welcome -->
+    <string name="welcome">Welcome, %1$s</string>
+    <string name="welcome_super_razon_social">VSM Servicios S.A de C.V.</string>
+    <string name="welcome_super_historial">History of inputs and outputs</string>
+    <string name="message_enroll">"Please enter the number of the employee you wish to enroll or modify."</string>
+    <string name="message_admin_employee_number">Please enter the number of the employee you wish to enroll or modify.</string>
+    <string name="welcome_super_title">Daily checks</string>
+    <string name="welcome_super_estadisticas">Log statistics</string>
+    <string name="welcome_message_barchar">Total employees with registration</string>
+    <string name="data_admin_graphic_legent_consumed">registered workers</string>
+    <string name="data_admin_graphic_legent_remaining">Total workers</string>
+    <string name="data_admin_graphic_label">Processed</string>
+
+    <!--Free trail y Enterprise -->
+    <string name="employee_number">"Employee"</string>
+    <string name="free_trail">Trial period</string>
+    <string name="free_trail_active">Active trial period</string>
+    <string name="free_trail_time">You have %1$d days left. update your account</string>
+    <string name="free_trail_time_one_day">You have %1$d day left. update your account.</string>
+    <string name="free_trail_expired"><![CDATA[We inform you that <b>your Human eTime Free Trail account has expired.</b> If you want to continue with the benefits of the application, we recommend that you make the payment now.]]></string>
+    <string name="free_trail_zonas">You can only set 1 zone at most. If you want to add more, upgrade your Trial version to Enterprise.</string>
+    <string name="free_trail_estaciones">You can only set 5 stations at most. If you want to add more, upgrade your Trial version to Enterprise.</string>
+    <string name="free_trail_supervisor">You can only set up 1 supervisor at most. If you want to add more, upgrade your Trial version to Enterprise.</string>
+    <string name="free_trail_empleados">You can only set up 10 employees at most. If you want to add more, upgrade your Trial version to Enterprise.</string>
+    <string name="expired_hi">Hello %1$s!</string>
+    <string name="expired_today_date"><![CDATA[We remind you that <b>today %1$s</b> is your payment deadline.]]></string>
+    <string name="expired_istoday"><![CDATA[We remind you that the date of your next <b>%1$s bill is due on %2$s.</b>]]></string>
+    <string name="expired_date_one_to_seven"><![CDATA[We inform you that <b>your Human eTime Entreprise account has expired.</b> If you want to continue with the benefits of the application, we recommend that you make the payment now.]]></string>
+    <string name="expired_pay_now">Proceed to my payment now</string>
+    <string name="expired_pay_now_today">Pay now</string>
+    <string name="expired_pay_now_two">Make my payment</string>
+    <string name="expired_end">We inform you that your Human eTime Entreprise account has expired. If you want to continue with the benefits of the application, we recommend that you make the payment now.</string>
+    <string name="expired_contact"><![CDATA[If you have any questions about how to make the payment, write to us at <b>contacto@venturessoft.com</b>]]></string>
+    <string name="cardview_botton">Subscribe to a company</string>
+    <string name="notification_one">We inform you that your trial version expires in 7 days. If you wish, you can activate your Enterprise Subscription now \uF04A (happy face)</string>
+    <string name="notification_two">We are sad because today your trial version ends \uF04C (sad face) \n Do you want the Enterprise version? Access the app and subscribe. \uF04A (smiling face)</string>
+    <string name="paypal_success_actualizacion">The upgrade of your subscription to Enterprise was successful.</string>
+    <string name="paypal_success_num_confirmacion">Confirmation number:</string>
+    <string name="paypal_success_volver_iniciar">To apply the changes it is necessary to Login again</string>
+    <string name="paypal_success_entendido">Understood</string>
+    <string name="waytopay_title">Enterprise subscription payment</string>
+    <string name="waytopay_x_colaborador">by collaborator</string>
+    <string name="waytopay_x_colaboradores">collaborators</string>
+    <string name="waytopay_tu_siguiente_pago">Your next payment will be</string>
+    <string name="waytopay_disfrutar_beneficios">You are about to enjoy all the benefits of our app for all your collaborators.\n\nPlease confirm the following information:</string>
+    <string name="waytopay_detalle">Subscription detail</string>
+    <string name="waytopay_colaboradores_cien">100 collaborators</string>
+    <string name="waytopay_x_colaborador_cost">$10 per contributor</string>
+    <string name="waytopay_cambiar">Change</string>
+    <string name="waytopay_est_ilimitadas">Unlimited stations</string>
+    <string name="waytopay_inclu_entrerpraise">Included in the Enterprise plan</string>
+    <string name="waytopay_costo_mensual">Monthly cost</string>
+    <string name="waytopay_proceder_pago">Proceed to my payment</string>
+    <string name="enterprice_details_costo"><![CDATA[Cost of your <b>Enterprise</b> account]]></string>
+    <string name="enterprice_details_plantilla"><![CDATA[for your staff of <b>%1$s collaborators</b>]]></string>
+    <string name="enterprice_month">/ month</string>
+    <string name="enterprice_concluira">Your Free Trial subscription will expire on %1$s</string>
+    <string name="enterprice_actualiza">Upgrade your account to Enterprise and enjoy the following benefits:</string>
+    <string name="enterprice_indicador_uno">Registration of entries and exits of your collaborators from their unlimited cell phone.</string>
+    <string name="enterprice_indicador_dos">Configuration of collaborators according to the number that exists in your organization.</string>
+    <string name="enterprice_indicador_tres">Unlimited zone configuration.</string>
+    <string name="enterprice_indicador_cuatro">Artificial Intelligence (AI) for face and voice recognition and ensuring the identity of the person.</string>
+    <string name="enterprice_indicador_cinco">Location of your collaborators from any point.</string>
+    <string name="enterprice_indicador_seis">Download reports</string>
+    <string name="enterprice_indicador_siete">Cost of your Enterprise account</string>
+    <string name="enterprice_indicador_ocho">$100,000 MXN / month</string>
+    <string name="enterprice_indicador_nueve">for your staff of 100,000 collaborators</string>
+    <string name="enterprice_expiracion">Your Free Trial subscription will end on %1$s</string>
+    <string name="enterprice_actualizar_a_entrerprise">Upgrade to Enterprise version</string>
+    <string name="enterprice_continuar_prueba">Continue my test</string>
+    <string name="enterprice_renovacion_manual">Manual renewal, cancel whenever you want</string>
+    <string name="number_employee_frag_costo"><![CDATA[The cost per collaborator is <b>$%1$s MXN</b>]]></string>
+    <string name="number_employee_num_empl">Number of collaborators</string>
+    <string name="number_employee_asig_empl">Indicate the number of collaborators you want to assign for this month.</string>
+    <string name="number_employee_num_col_registrar">Number of collaborators to register</string>
+    <string name="number_employee_pagar">Pay</string>
+    <string name="trialdetails_bienvenido">Welcome to</string>
+    <string name="trialdetails_disfruta">Enjoy the advantages of our app to record the attendance of your staff.</string>
+    <string name="trialdetails_obten">Get the first 15 days free</string>
+    <string name="trialdetails_despues">Afterwards, the cost will be $100,000 MXN for your staff of 100,000 collaborators</string>
+    <string name="trialdetails_en_quince">In 15 days you will enjoy at no cost:</string>
+    <string name="trialdetails_registro_de">Registration of entries and exits of your collaborators from their cell phone</string>
+    <string name="trialdetails_ia">Artificial Intelligence (AI) for face and voice recognition and ensuring the identity of the person.</string>
+    <string name="trialdetails_ubicacion">Location of your collaborators from any point</string>
+    <string name="trialdetails_descarga">Download reports</string>
+    <string name="trialdetails_acceso_a">Likewise, you will have access to:</string>
+    <string name="trialdetails_registro_de_10">Registration of 10 collaborators (maximum).</string>
+    <string name="trialdetails_confi_5">Configuration of 5 stations (maximum).</string>
+    <string name="trialdetails_confi_1_zona">Configuration of 1 stations (maximum).</string>
+    <string name="trialdetails_15_dias_gratis">15 days free</string>
+    <string name="trialdetails_comenzar_mi_prueba">Start my trial now</string>
+    <string name="trialdetails_renovacion_manua">Manual renewal, cancel whenever you want</string>
+    <string name="update_enterprice_agregar_cola"><![CDATA[If you want to add either one or more collaborators, as well as stations, you will need to upgrade your Trial version to <b>Human eTime Enterprise</b>]]></string>
+    <string name="update_enterprice_costo"><![CDATA[Cost of your <b>Enterprise</b> account]]></string>
+    <string name="update_enterprice_plantilla_de"><![CDATA[for your staff of <b>%1$s collaborators</b>]]></string>
+    <string name="update_enterprice_expiracion">Your Free Trial subscription will expire on %1$s</string>
+    <string name="update_enterprice_recordamos_periodo">We remind you that you are in a trial period, so you can only configure:</string>
+    <string name="update_enterprice_10_colaboradores">10 collaborators (maximum).</string>
+    <string name="update_enterprice_5_estaciones">5 stations (maximum).</string>
+    <string name="update_enterprice_1_zona">1 zone (máximo).</string>
+    <string name="update_enterprice_15_dias">15 days free</string>
+    <string name="update_enterprice_agregar_colab">If you want to add either one or more collaborators, as well as stations, you will need to upgrade your Trial version to Human eTime Enterprise</string>
+    <string name="update_enterprice_costo_de_cuenta">Cost of your Enterprise account</string>
+    <string name="update_enterprice_actualiza_enter">Upgrade to Enterprise version</string>
+    <string name="update_enterprice_continuar_prueba">continue my test</string>
+    <string name="update_enterprice_renovacion_man">Manual renewal, cancel whenever you want</string>
+    <string name="card_view_today_title">Trial period</string>
+    <string name="card_view_today_txt"><![CDATA[We remind you that today <b>%1$s</b> ends your Free Trial. Update your account.]]></string>
+    <string name="dispositivo">Device :</string>
+    <string name="label_entrada">Entrance</string>
+    <string name="est_libres_estacion">Station : </string>
+    <string name="detalle_del_reporte">Report detail</string>
+    <string name="a_las">at</string>
+    <string name="entrada">Input</string>
+    <string name="salida">Output</string>
+    <string name="actualizacion_desc">An update has just been downloaded.</string>
+    <string name="restart">RESTART</string>
+
+    <!-- Fragment ListaSuper -->
+    <string name="list_super_title">List of supervisors</string>
+
+    <!-- Fragment RegisterSupervisor -->
+    <string name="registersupervisor_title">Supervisor data</string>
+    <string name="supervisor_edit">Edit supervisor</string>
+    <string name="registersupervisor_holder_name">Name</string>
+    <string name="registersupervisor_holder_appaterno">Last name</string>
+    <string name="registersupervisor_holder_apmaterno">"(Optional)"</string>
+    <string name="registersupervisor_holder_email">Email</string>
+    <string name="registersupervisor_holder_password">Password</string>
+    <string name="registersupervisor_holder_passwordconfirm">Confirm password</string>
+    <string name="registersupervisor_holder_zones">Zones</string>
+    <string name="registersupervisor_holder_estatus">Status</string>
+    <string name="registersupervisor_btnsave">Save</string>
+
+    <!-- Fragment Settings -->
+    <string name="settings_spanish">Español</string>
+    <string name="settings_english">English</string>
+    <string name="settings_portuguese">Português</string>
+    <string name="settings_french">Francés</string>
+    <string name="settings_delete_account">Eliminate subscription</string>
+    <string name="settings_message">Are you sure you want to delete your account?</string>
+
+    <!--Messages-->
+    <string name="message_required_permission">You do not have administrator permissions.</string>
+    <string name="message_title_forgot_nip_vinculado">Forget PIN</string>
+    <string name="title_company">Company</string>
+    <string name="message_feature_location_activated">"You need to have location services activated."</string>
+    <string name="message_camera_face_position">Place your face inside the oval, take a picture and wait a few seconds.</string>
+    <string name="message_camera_photo_taken">This is your photo.</string>
+    <string name="message_camera_permission_denied">"This application needs camera permissions for correct operation."</string>
+    <string name="message_location_permission_denied">This application needs location permissions for correct operation.</string>
+    <string name="message_well_done">Well done!</string>
+    <string name="message_success_photo_update">The employee s photo was stored correctly.</string>
+    <string name="message_validating_face">Validando información de la cara …</string>
+    <string name="message_photo_changing">Send photo to server</string>
+    <string name="message_confirm_logout">"Are you sure you want to sign out?"</string>
+    <string name="message_successful_logout">Your session has ended.</string>
+    <string name="message_success_change_nip">Your password was successfully changed!</string>
+    <string name="message_success_forgot_nip">Your password was successfully reset!</string>
+    <string name="message_change_photo">Change photo</string>
+    <string name="message_change_update">Upload photo</string>
+    <string name="errormissing">Notification</string>
+    <!--Errors-->
+    <string name="error_server_connection">The Human eTime service is not available, please report it to the supervisor.</string>
+    <string name="error_server_mobile_connection">Your device lost connection to the server, please try again.</string>
+    <string name="error_server_corrupt">A service error has occurred, please try again.</string>
+    <string name="error_profile_photo">"The profile picture could not be retrieved, please try again."</string>
+    <string name="error_camera_unavailable">Camera permissions are required.</string>
+    <string name="error_camera_photo_unavailable">You do not have an assigned profile picture, report it to your supervisor.</string>
+    <string name="error_face_detect">Facial recognition unsuccessful, try again.</string>
+    <string name="error_empty_fields">All fields are required.</string>
+    <string name="error_cant_find_user">The data associated with the user is not found, try again.</string>
+    <string name="error_admin_employee_empty">Please enter an employee number.</string>
+    <string name="error_admin_name_empty">Please enter your name (s).</string>
+    <string name="error_admin_appaterno_empty">Please enter a paternal surname</string>
+    <string name="error_admin_correo_empty">Your email is not valid.</string>
+    <string name="error_face_comparison_photo">A valid face was not detected, try again.</string>
+    <string name="error_fail_face_match">The face does not match your photo. Please try again. </string>
+    <string name="error_unknown">An error has occurred in the system, please contact the supplier.</string>
+    <string name="error_external_user_checkinout">User without assigned station, please report it to your supervisor.</string>
+    <string name="error_rfc_empty">Please enter Tax Number.</string>
+    <string name="error_curp_empty">Please enter SSN.</string>
+    <string name="error_company_empty">Please enter your company.</string>
+    <string name="error_employee_empty">Please enter your employee number.</string>
+    <string name="error_new_nip_empty">Please enter your password.</string>
+    <string name="error_current_nip_empty">Please enter your current password.</string>
+    <string name="error_confirm_nip_empty">Please confirm password.</string>
+    <string name="error_wrong_current_nip">Incorrect new password</string>
+    <string name="error_new_confirm_nip">Confirmation of new PIN incorrect.</string>
+    <string name="toast_text_change_password">Confirm new password</string>
+
+    <string name="error_company_data">Please enter the company data</string>
+    <string name="error_company_code_company">Please enter company code</string>
+    <string name="error_company_name_empty">Please enter the name of the company</string>
+    <string name="error_company_bussines_empty">Please enter business name</string>
+    <string name="error_company_rfc_empty"> Please enter a federal taxpayer registry</string>
+    <string name="error_company_correo_empty">Please enter an email</string>
+    <string name="error_company_n_exterior_empty">Please enter exterior number</string>
+    <string name="error_company_stree_empty">Please enter street</string>
+    <string name="error_company_suburb_empty">Please enter a colony</string>
+    <string name="error_company_city_empty">Please enter city</string>
+    <string name="error_company_state_empty">Please enter state</string>
+    <string name="error_admin_data">Please enter the supervisor s information</string>
+    <string name="error_employee_data">Please enter the employee data</string>
+    <string name="error_employee_data_name_empty">Please enter your name (s)</string>
+    <string name="error_employee_data_appaterno_empty">Please enter your paternal last name.</string>
+    <string name="error_employee_data_number_empty">Please enter an employee number</string>
+    <string name="error_supervisor_data">Please enter the supervisor s information</string>
+    <string name="error_supervisor_data_name_empty">Please enter your name (s)</string>
+    <string name="error_supervisor_data_appat_empty">Please enter your paternal last name.</string>
+    <string name="error_station_data">Please enter the station information</string>
+    <string name="error_station_data_name_empty">Please enter the name</string>
+    <string name="error_station_data_range_empty">Please enter a range</string>
+    <string name="error_station_data_zone_empty">Please select an area</string>
+    <string name="error_station_data_latlon_empty">Please enter a latitude and longitude</string>
+    <string name="error_forget_my_nip">Please enter the data to retrieve your PIN</string>
+    <string name="error_update_my_nip">Please enter the data to update your PIN</string>
+    <string name="error_zone_data">Please enter the data of the area</string>
+    <string name="error_supervisor_data_employe_number_empty">Please enter the number of employees.</string>
+
+    <!--Common / Words-->
+    <string name="hint">---</string>
+    <string name="hint_5">-----</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="retry">Retry</string>
+    <string name="confirm">Confirm</string>
+    <string name="employeeCaption">Employee</string>
+    <string name="location">location</string>
+    <string name="camera">"Camera"</string>
+    <string name="ok">Yes</string>
+    <string name="no">No</string>
+    <string name="continus_payment">do you wish to continue?</string>
+    <string name="employee_hint">"Employee"</string>
+    <string name="error">Notification</string>
+    <string name="success">Success</string>
+    <string name="profile_of">Profile of</string>
+    <string name="update_photo">Change photo</string>
+    <string name="unknown">Desconocido</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="good">Well done!</string>
+
+    <!-- ChangePasswordFragment-->
+    <string name="change_password_name">"Change password"</string>
+    <string name="change_password_actual">"Current password"</string>
+    <string name="change_password_new">"New Password"</string>
+    <string name="change_password_confirm">"Confirm new password"</string>
+    <string name="change_password_error">The passwords do not match.</string>
+    <string name="change_password_fields">Please enter the data to change the password</string>
+    <string name="error_change_password_actual_empty">Please enter current password</string>
+    <string name="error_change_password_new_empty">Please enter a new password</string>
+    <string name="change_password_success">Password change successful</string>
+    <string name="change_btnSave">Save</string>
+    <string name="error_change_password_character">Between 8 and 15 characters.</string>
+    <string name="error_one_number">At least one number.</string>
+    <string name="error_one_capital_letter">At least one capital letter.</string>
+    <string name="error_one_special_character">At least one special character.</string>
+    <string name="error_one_lowercase_letter">At least one lowercase letter.</string>
+    <!-- ChangePasswordFragment-->
+
+    <!--MakePurchase-->
+    <string name="make_purchase_title">VSM Servicios S.A de C.V.</string>
+    <string name="make_purchase_title_nchecadas">Number of checks</string>
+    <string name="btnCalcular">"Calculate"</string>
+    <string name="make_purchase_title_pay">Total to pay</string>
+    <string name="btnBuy">"Buy"</string>
+    <!--MakePurchase-->
+    <!--Zones -->
+    <string name="zones_title">"Add zones"</string>
+    <string name="zones_description">Name of the zone</string>
+    <string name="zones_estatus">Estatus</string>
+    <string name="zones_add">Add Zones</string>
+    <string name="zones_btnsave">Save</string>
+    <string name="zones_edy">Edit Zones</string>
+    <!--Zones -->
+    <!--Report -->
+    <string name="report_title">Check in and check out reports</string>
+    <string name="report_nemployee">N.Employee</string>
+    <string name="report_name">Name</string>
+    <string name="report_date">Date</string>
+    <string name="report_hour">Check-in time</string>
+    <string name="report_type">Check-out time</string>
+    <string name="report_observations">Stations</string>
+    <!--Report  -->
+    <!--ZonesList -->
+    <string name="list_zones_title">List of zones</string>
+    <!--ZonesList -->
+
+    <!--Filtro-->
+    <string name="filter_title">Filters</string>
+    <string name="filter_report">Filter</string>
+    <string name="filter_date_from_">Date from</string>
+    <string name="filter_date_up_">Date to</string>
+    <string name="filter_num_emp_">Employee number</string>
+    <string name="filter_select_zones_">Select zone</string>
+    <string name="filter_select_seasson_">Select ztations</string>
+    <string name="filter_select_hour_ini">Check-in time</string>
+    <string name="filter_select_hour_fn">Check-out time</string>
+    <string name="filter_btn_generate">Apply</string>
+    <string name="filter_hits_date_of">20/08/2019</string>
+    <string name="filter_hits_date_up">20/08/2019</string>
+    <string name="filter_hits_hour_up">09:00:00</string>
+    <string name="filter_hits_hour_of">18:00:00</string>
+    <string name="filter_hits_number_employee">Optional</string>
+    <string name="filter_hits_number_seasson">(Opcional)</string>
+    <!--Filtro-->
+    <string name="token">pk.eyJ1IjoidmVudHVyZXMiLCJhIjoiY2syMG94c2QzMDJ1cTNvcWMydXZpNHQ5bCJ9.9U-iVEFllrrqQiUTV6nIcA</string>
+
+    <!--EditEstaciones-->
+    <string name="list_estaciones_title">List of stations</string>
+    <string name="seleccionar_estaciones">Stations</string>
+    <string name="seleccionar_estaciones_select">0 Selected</string>
+
+    <!--EditEstaciones-->
+    <!--Station -->
+    <string name="seasons">Choose station</string>
+    <string name="seasons_elegir_season">Select zone</string>
+    <string name="select_station_hint_default">0 selected</string>
+    <string name="station_search">Search station</string>
+    <string name="season_description">Station name</string>
+    <string name="season_description_hint">Name</string>
+    <string name="season_lat">Latitude</string>
+    <string name="season_lon">Length</string>
+    <string name="season_rango">Coverage radius</string>
+    <string name="season_uuid">UUID ( Optional )</string>
+    <string name="season_bssid">BSSID (Optional)</string>
+    <string name="season_status">Status</string>
+    <string name="season_add">Station</string>
+    <string name="station_edit">Edit station</string>
+    <string name="station_meters">Meters</string>
+    <string name="station_feets">Pies</string>
+    <string name="station_txt_details">Station detail</string>
+    <string name="season_save">Save</string>
+    <string name="free_station">Free station</string>
+    <string name="name_title_station">Station:</string>
+    <string name="name_title_type">Type:</string>
+    <!--Station -->
+
+    <!--Seleccionar Zonas -->
+    <string name="title__select_zones">Zones</string>
+    <!--Seleccionar Zonas -->
+    <string name="registeremployee_titlee">Employee data</string>
+    <string name="employee_edit">Edit employee</string>
+    <string name="registeremployee_holder_name">Name</string>
+    <string name="registeremployee_holder_appaterno">Last name</string>
+    <string name="registeremployee_holder_apmaterno">(Optional)</string>
+    <string name="registeremployee_holder_num_employee">Employee number</string>
+    <string name="registeremployee_holder_selecct_station">Choose station</string>
+    <string name="registeremployee_holder_btnSave">Choose station</string>
+    <string name="registeremployee_holder_zones">Zone</string>
+    <!--ListEmployee-->
+    <string name="list_employee_title">List of employees</string>
+    <string name="employee_btn_active">Active</string>
+    <string name="employee_btn_disable">Inactive</string>
+    <string name="employee_btn_save">Save</string>
+    <!--ListEmployee-->
+
+    <!--Payment-->
+    <string name="payment_title">Payment</string>
+    <string name="payment_title_numcard">CARD NUMBER</string>
+    <string name="payment_title_cardholder">CARDHOLDER</string>
+    <string name="payment_title_dateofexpiry">"DATE OF EXPIRY"</string>
+    <string name="payment_title_cvv">CVV</string>
+    <string name="payment_title_subtotal">Subtotal:</string>
+    <string name="payment_title_iva">IVA:</string>
+    <string name="payment_title_total">Total:</string>
+    <string name="btnPayment">"Pay"</string>
+    <!--Payment-->
+    <!--FinishPayment-->
+    <string name="finishpayment_title">Make payment</string>
+    <string name="finishpayment_proccesing_purchase">Processing purchase</string>
+    <string name="finishpayment_success_payment">Make payment</string>
+    <string name="finishpayment_btnAcept">Accept</string>
+    <!--FinishPayment-->
+    <!--Login-->
+    <string name="button_forgot_nip">&lt;u>Recover password.&lt;/u></string>
+    <string name="recover_password_success">Your password has been sent to your email</string>
+    <string name="title_nip">Nip</string>
+    <!-- <string name="title_language" translatable="false">LANGUAGE</string> -->
+    <!--Forgot nip-->
+
+    <string name="error_connectiontitle">Error de Wifi/Datos.</string>
+    <string name="error_connection">Functionality not available.</string>
+
+    <!--Bottom sheet delete account -->
+    <string name="bottom_sheet_delete_title">Delete account</string>
+    <string name="bottom_sheet_delete_check">I authorize the deletion process of my account.</string>
+    <string name="bottom_sheet_delete_text"><![CDATA[It makes us sad to know that you no longer wish to continue using Human eTime 😢. <br/><br/>If we can do something to support you so that you do not stop using the product, please send us a message to <font color=#0094AA><b>contacto@venturessoft.com</b>< /font> and we will attend to your case as soon as possible]]></string>
+    <string name="bottom_sheet_delete_layout">Once your account is deleted, after 5 days you will no longer have access to your data.</string>
+    <string name="bottom_sheet_delete_button">Request deletion of my account</string>
+    <string name="bottom_sheet_delete_button_continue">Continue using Human eTime</string>
+
+    <!--New mensagess: Error Local-->
+    <!-- Acerca de -->
+    <string name="version">Version:</string>
+    <string name="numversion">1.0.0</string>
+    <string name="compilacion">Compilation:</string>
+    <string name="numcompilacion">1</string>
+    <string name="Copyright">Copyright ©:</string>
+    <string name="aCopyright">1995-2021</string>
+    <string name="bCopyright">VenturesSoft Corporation</string>
+    <string name="advetencia">Warning::</string>
+    <string name="mAdvetencia">"This program is protected by copyright laws and other international treaties. The unlawful reproduction or distribution of this program, or any part thereof, is punishable by law with severe civil and criminal penalties and will be subject to all applicable legal actions. "</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="error_no_location_found">Your gps location was not obtained</string>
+    <string name="sinestacion">It does not have location records.</string>
+    <string name="registeremployee_asing">"Add"</string>
+    <string name="registeremployee_edit"> Edit</string>
+    <string name="welcome_super_saldo">Remaining Balance</string>
+    <string name="search_employee">Search employee</string>
+    <string name="search_zone">Search zone</string>
+
+    <string name="list_super_search">Search supervisor</string>
+    <string-array name="day_of_the_week_array">
+        <item name="sunday">Sunday</item>
+        <item name="monday">Monday</item>
+        <item name="tuesday">Tuesday</item>
+        <item name="wednesday">Wednesday</item>
+        <item name="thursday">Thursday</item>
+        <item name="friday">Friday</item>
+        <item name="saturday">Saturday</item>
+    </string-array>
+    <string name="zones_name">"Name"</string>
+    <string name="station_name">Station name</string>
+    <string name="station_unit">Unit</string>
+    <string name="season_uuid_label">"Beacon "</string>
+    <string name="season_bssid_label">"BSSID "</string>
+    <string name="season_select_desc">GPS location</string>
+    <string name="data_company_title">"Company name"</string>
+
+    <string name="title_activity_success_lotie">SuccessLotie</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="a_success_payment">Successful purchase.</string>
+    <string name="title_activity_animation_success">AnimationSuccess</string>
+    <string name="company_data_suburb">Suburb</string>
+    <string name="company_data_city">City</string>
+    <string name="company_data_states">State</string>
+    <string name="next">NEXT</string>
+    <string name="change_language">Change language</string>
+    <string name="successful_change">Your change has been successful.</string>
+    <string name="virtual_terminal_location">Virtual terminal location</string>
+
+    <string name="EG000">General mistake.</string>
+
+    <string name="DB210">Query error: company.</string>
+    <string name="DB211">Query error: user.</string>
+    <string name="DB212">Error getting role.</string>
+    <string name="DB213">Error getting country.</string>
+    <string name="DB214">Error inserting company.</string>
+    <string name="DB215">Error inserting user.</string>
+    <string name="DB216">Error inserting Company_User.</string>
+    <string name="DB217">Query error: zone.</string>
+    <string name="DB218">Error inserting user_zone.</string>
+    <string name="DB219">Error deleting user_ zones.</string>
+    <string name="DB220">Error while querying billing data.</string>
+    <string name="DB221">Error inserting billing.</string>
+    <string name="DB222">Error deleting billing.</string>
+    <string name="DB223">Error getting employee.</string>
+    <string name="DB224">Error getting last check.</string>
+    <string name="DB225">"Error when consulting the company in HUMAN".</string>
+    <string name="DB226">Error while querying the company_user.</string>
+    <string name="DB227">Error while consulting the user_zone.</string>
+    <string name="DB229">Error when checking contracted balance.</string>
+    <string name="DB230">Error consulting consumed balance.</string>
+    <string name="DB231">Error updating user.</string>
+    <string name="DB232">Error while consulting the path.</string>
+    <string name="DB233">Error inserting photo.</string>
+    <string name="DB250">Error consulting check.</string>
+    <string name="DB400">Error inserting station.</string>
+    <string name="DB401">Error updating station.</string>
+    <string name="DB402">Error while querying the station.</string>
+    <string name="DB403">Error deleting the station.</string>
+    <string name="DB404">Error inserting zone.</string>
+    <string name="DB405">Error updating zone.</string>
+    <string name="DB407">Error removing zone.</string>
+    <string name="DB408">Error while querying the employee.</string>
+    <string name="DB409">Error inserting check.</string>
+    <string name="DB410">Error when consulting tax.</string>
+    <string name="DB411">Error inserting tax.</string>
+    <string name="DB412">Error removing tax.</string>
+    <string name="DB413">"Error querying language".</string>
+    <string name="DB414">Error while consulting unit of measure.</string>
+    <string name="DB415">Error deleting station-employee.</string>
+    <string name="DB416">Error inserting station-employee.</string>
+    <string name="DB417">Error when checking balance of checks.</string>
+    <string name="DB418">Error when consulting employee-station.</string>
+    <string name="DB419">Error deleting employee.</string>
+    <string name="DB420">Error deleting company-user.</string>
+    <string name="DB421">Error error removing user.</string>
+    <string name="DB422">Error when consulting the Station_Zone.</string>
+    <string name="ET000">Successful registration</string>
+    <string name="ET001">The value corresponding to the company is incorrect.</string>
+    <string name="ET002">The value corresponding to the employee number is incorrect.</string>
+    <string name="ET004"> Wrong company code, please try again.</string>
+    <string name="ET005">The employee is not active in the system.</string>
+    <string name="ET006">The employee does not have an assigned profile picture, report it to your supervisor.</string>
+    <string name="ET007">You do not have a license to use Human eTime.</string>
+    <string name="ET025">The check date and time is incorrect.</string>
+    <string name="ET026">The type of check is incorrect, the expected values ​​are “E- check-in” and “S - check-out”.</string>
+    <string name="ET027">"Human eTime did not have access to the employee's photo."</string>
+    <string name="ET028">The value corresponding to the priority is incorrect.</string>
+    <string name="ET029">"Wrong bluetooth marking zone."</string>
+    <string name="ET030">"Incorrect gps marking zone."</string>
+    <string name="ET031">The employee does not have a clock teacher</string>
+    <string name="ET032">"The face does not match your photo."</string>
+    <string name="ET033">"It is necessary to register a check-out."</string>
+    <string name="ET034">The photoModel field is incorrect.</string>
+    <string name="ET035">The token field is incorrect.</string>
+    <string name="ET036">The hash sent does not match the one recorded.</string>
+    <string name="ET040">"A check-in is required."</string>
+    <string name="ET041">"There is already a record with the same hour and minute."	</string>
+    <string name="ET042">"A record already exists for that date."</string>
+    <string name="ET045">"The departure time cannot be less than the arrival time."	</string>
+    <string name="ET200">"The field 'IdUsuario' is mandatory."</string>
+    <string name="ET201">"The 'email' field is mandatory."</string>
+    <string name="ET202">"The 'password' field is mandatory."</string>
+    <string name="ET203">"The 'phone' field is mandatory."</string>
+    <string name="ET204">"The 'name' field is mandatory."</string>
+    <string name="ET205">"The field 'surnamePat' is mandatory."</string>
+    <string name="ET206">"The field 'surnameMat' is mandatory."</string>
+    <string name="ET207">"The field 'companyName' is mandatory."</string>
+    <string name="ET208">"The field 'keyCia' is mandatory."</string>
+    <string name="ET209">"The 'emailNuevo' field is required."</string>
+    <string name="ET210">Company already exists.</string>
+    <string name="ET211">"User already exists."</string>
+    <string name="ET212">Role does not exist.</string>
+    <string name="ET213">Country code does not exist.</string>
+    <string name="ET214">The company does not exist.</string>
+    <string name="ET215">Zone does not exist.</string>
+    <string name="ET216">User does not exist.</string>
+    <string name="ET217">"Invalid password."</string>
+    <string name="ET218">"The new password is the same as the current one."</string>
+    <string name="ET219">"Administrator cannot be updated."</string>
+    <string name="ET220">"Email already exists."</string>
+    <string name="ET221">"The email format is invalid."</string>
+    <string name="ET222">"Mail does not exist."</string>
+    <string name="ET223">"The field 'company name' is mandatory."</string>
+    <string name="ET224">"The' SSN' field is mandatory."</string>
+    <string name="ET225">"The 'address' field is mandatory."</string>
+    <string name="ET226">"The company name already exists."</string>
+    <string name="ET227">Billing Id does not exist.</string>
+    <string name="ET228">"The field 'idInvoicing' is mandatory."</string>
+    <string name="ET229">Employee does not exist.</string>
+    <string name="ET230">"The key already exists in the HUMAN database."</string>
+    <string name="ET231">"The user does not have a company assigned."</string>
+    <string name="ET232">"The zone has no relation with the user entered."</string>
+    <string name="ET233">The zone array is mandatory.</string>
+    <string name="ET234">"Country code is required."</string>
+    <string name="ET235">The amount of the purchase subtotal is incorrect.</string>
+    <string name="ET236">The purchase date is incorrect.</string>
+    <string name="ET237">The value corresponding to the company number is incorrect.</string>
+    <string name="ET238">Zone description already exists.</string>
+    <string name="ET239">"The company does not have an associated administrator user."</string>
+    <string name="ET240">Insufficient balance, cannot register checks.</string>
+    <string name="ET241">Station name already exists.</string>
+    <string name="ET242">"The field 'entry date' is mandatory."</string>
+    <string name="ET250">"The field 'start date' is mandatory."</string>
+    <string name="ET251">"The field 'EndDate' is mandatory."</string>
+    <string name="ET252">End date must be greater than or equal to Start date.</string>
+    <string name="ET253">"Missing input field 'horaFin'."</string>
+    <string name="ET254">"Missing enter field 'start time'."</string>
+    <string name="ET255">"The phone code is required"</string>
+    <string name="ET260">"The field 'employeeNumber' or 'employeeID' is mandatory."</string>
+    <string name="ET261">"Field 'photo' is mandatory."</string>
+    <string name="ET262">"The field 'company number' or 'idCia' is mandatory."</string>
+    <string name="ET263">"Status only accepts A or B."</string>
+    <string name="ET264">"The zone has more than one associated administrator user."</string>
+    <string name="ET265">"The photo does not correspond to a person."</string>
+    <string name="ET270">Cannot delete the record as the zone is associated with a station.</string>
+    <string name="ET271">"You need to confirm the user's PIN to change the supervisor email."</string>
+    <string name="ET300">Supervisor id is wrong.</string>
+    <string name="ET301">The total purchase amount is incorrect.</string>
+    <string name="ET302">"The value of the purchase folio is incorrect."</string>
+    <string name="ET303">"Unable to process a zero check purchase."</string>
+    <string name="ET304">Supervisor Id does not exist.</string>
+    <string name="ET305">"The Id of the billing information does not exist."</string>
+    <string name="ET306">"There was an error with the purchase of checks, please retry."</string>
+    <string name="ET307">"The gateway page is already registered."</string>
+    <string name="ET308">The user id for access to the check purchase service is incorrect.</string>
+    <string name="ET309">"The password to access the check purchase service is incorrect."</string>
+    <string name="ET310">The idCia is incorrect.</string>
+    <string name="ET311">"The employee id is incorrect."</string>
+    <string name="ET312">"The employee's name is incorrect."</string>
+    <string name="ET313">Company number does not exist.</string>
+    <string name="ET314">Employee number does not exist.</string>
+    <string name="ET315">The employee is already registered in the system.</string>
+    <string name="ET316">"Some of the stations do not exist in the system."</string>
+    <string name="ET317">The file server path is not configured, report it to your supervisor.</string>
+    <string name="ET318">"Photo storage error."</string>
+    <string name="ET319">"Error inserting employee record."</string>
+    <string name="ET320">"The employee does not exist."</string>
+    <string name="ET321">"Internal error, please report it to your supervisor."</string>
+    <string name="ET322">" There are no results for the search criteria."</string>
+    <string name="ET323">The photo format is not valid.</string>
+    <string name="ET324">The page number is incorrect.</string>
+    <string name="ET325">The numRegistros is incorrect.</string>
+    <string name="ET326">The parameters page and numRegistros must go both.</string>
+    <string name="ET327">No records found.</string>
+    <string name="ET400">The "description" field is mandatory.</string>
+    <string name="ET401">"The "idZona" field is mandatory."</string>
+    <string name="ET402">"The "UUID" field is mandatory."</string>
+    <string name="ET403">"The "latitude" field is mandatory."</string>
+    <string name="ET404">"The "length" field is mandatory."</string>
+    <string name="ET405">"The "range" field is mandatory."</string>
+    <string name="ET406">"The 'status' field is mandatory."</string>
+    <string name="ET407">"The field 'IdEstacion' is mandatory."</string>
+    <string name="ET408">"The station does not exist."</string>
+    <string name="ET409">"The field 'clvUnidad' is mandatory."</string>
+    <string name="ET410">"Unit of measure does not exist."</string>
+    <string name="ET411">"The user has no associated stations."</string>
+    <string name="ET412">Report option is incorrect.</string>
+    <string name="ET413">The user does not have an associated email.</string>
+    <string name="ET450">There is no active privacy notice</string>
+    <string name="ET451">The privacy notice does not exist for the registered company</string>
+    <string name="ET452">An error occurred while accepting the privacy notice</string>
+    <string name="ET470">There is no record to generate the report.</string>
+    <string name="ET471">An error occurred while generating the report.</string>
+    <string name="ET500">"The field 'DateHoraChecada' is mandatory."</string>
+    <string name="ET501">"The field 'TipoChecada' is mandatory."</string>
+    <string name="ET502">"The 'Priority' field is mandatory."</string>
+    <string name="ET505">"There are no previous checks, it is necessary to register an entry."</string>
+    <string name="ET506">"The employee does not have assigned stations."</string>
+    <string name="ET507">"Incorrect bluetooth and gps marking zone."</string>
+    <string name="ET508">"The 'beacon' field is mandatory when the priority is 1."</string>
+    <string name="ET510">"The 'application date' field is mandatory."</string>
+    <string name="ET511">"The 'constoChecadas' field is mandatory."</string>
+    <string name="ET512">"The tax for the country already exists."</string>
+    <string name="ET513">"The 'taxid' field is mandatory."</string>
+    <string name="ET514">"There are no tax records."</string>
+    <string name="ET516">"The field 'statistical days' is mandatory."</string>
+    <string name="ET517">"The number of daysStatistics is incorrect."</string>
+    <string name="ET518">"The maximum number of statistics days is 15."</string>
+    <string name="ET519">"The 'language key' parameter is mandatory."</string>
+    <string name="ET520">"The language does not exist in the catalog."</string>
+    <string name="ET521">Error when consulting environment.</string>
+    <string name="ET522">It is not possible to perform your registration due to the fact that your access tolerance time has been exceeded.</string>
+    <string name="ET523">The "id" field is required.</string>
+    <string name="ET524">There are no audit records for the employee</string>
+    <string name="ET525">There are no audit records according to the date range</string>
+    <string name="ET526">There are no records for the requested id.</string>
+    <string name="ET550">Error ET550. Please contact technical support.</string>
+    <string name="ET600">Incorrect request.</string>
+    <string name="ET610">The employee photo does not exist.</string>
+    <string name="ET611">File not found.</string>
+    <string name="ET612">The company does not have a photo record.</string>
+    <string name="ET613">Error deleting image.</string>
+    <string name="ET614">The directory configured in the FileServer does not exist.</string>
+    <string name="ET615">Employee does not exist in Human.</string>
+    <string name="ET616">"Photo" field is required.</string>
+    <string name="ET617">The company does not have a file registry.</string>
+    <string name="ET618">The file does not exists.</string>
+    <string name="ET619">Failed to Delete File.</string>
+    <string name="ET620">The company number is incorrect.</string>
+    <string name="ET621">The employee number is incorrect.</string>
+    <string name="ET622">The path key is required.</string>
+    <string name="ET623">The company does not exist in Human.</string>
+    <string name="ET624">The path key does not exist in Human.</string>
+    <string name="ET625">X and Y must be sent for the new dimension.</string>
+    <string name="ET626">The file is required.</string>
+    <string name="ET627">The user does not have administrator privileges for the company.</string>
+    <string name="ET628">The Date format is invalid for the start date.</string>
+    <string name="ET629">The Date format is invalid for the end date.</string>
+    <string name="ET630">The start date must be less than the end date.</string>
+    <string name="ET631">Error generating the report in Jasper.</string>
+    <string name="ET640">The Free station field is required.</string>
+    <string name="ET641">The Free station field only accepts N or S.</string>
+    <string name="ET642">No assigned employees found.</string>
+    <string name="ET643">Error generating the token.</string>
+    <string name="ET650">The UUID field is required</string>
+    <string name="ET651">The device is already registered.</string>
+    <string name="ET652">RFC invalid.</string>
+    <string name="ET653">The keyword is already registered.</string>
+    <string name="ET654">Error sending email.</string>
+    <string name="ET655">The Keyword field is required.</string>
+    <string name="ET660">The RFC is already registered.</string>
+    <string name="ET670">The authorize field is incorrect.</string>
+    <string name="ET671">A record already exists for the employee.</string>
+    <string name="ET672">The employee is not enrolled.</string>
+    <string name="ET673">The new photo field is incorrect.</string>
+
+    <string name="ES400">Error 400</string>
+    <string name="ES401">Error 401</string>
+    <string name="ES402">402</string>
+    <string name="ES403">403</string>
+    <string name="ES404">404</string>
+    <string name="ES405">405</string>
+    <string name="ES406">406</string>
+    <string name="ES407">407</string>
+    <string name="ES408">408</string>
+    <string name="ES409">409</string>
+    <string name="ES410">410</string>
+    <string name="ES411">411</string>
+    <string name="ES412">412</string>
+    <string name="ES413">413</string>
+    <string name="ES414">414</string>
+    <string name="ES415">415</string>
+    <string name="ES416">416</string>
+    <string name="ES417">417</string>
+    <string name="ES418">418</string>
+    <string name="ES421">421</string>
+    <string name="ES422">422</string>
+    <string name="ES423">423</string>
+    <string name="ES425">425</string>
+    <string name="ES426">426</string>
+    <string name="ES428">428</string>
+    <string name="ES429">429</string>
+    <string name="ES431">431</string>
+    <string name="ES451">451</string>
+    <string name="ES500">500</string>
+    <string name="ES501">501</string>
+    <string name="ES502">502</string>
+    <string name="ES503">503</string>
+    <string name="ES504">504</string>
+    <string name="ES505">505</string>
+    <string name="ES506">506</string>
+    <string name="ES507">507</string>
+    <string name="ES511">511</string>
+    <string name="ES520">520</string>
+    <string name="ES522">522</string>
+    <string name="ES524">524</string>
+    <string name="ES600">600</string>
+
+
+    <string name="total_registration">Total of employees with registration:</string>
+    <string name="toast_company_success">Processing company data</string>
+    <string name="toast_configuracion_success">Processing the language change.</string>
+    <string name="toast_report_pdf_success">Generating PDF</string>
+    <string name="toast_report_csv_success">Generating CSV</string>
+    <string name="toast_report_email_success">Processing the reports</string>
+    <string name="toast_payment_buy_success">Processing purchase.</string>
+    <string name="toast_supervisor_success">Processing supervisor data.</string>
+    <string name="toast_zonas_success">Processing zone data</string>
+    <string name="toast_station_success">Processing station data</string>
+    <string name="toast_employee_success">Processing employee data</string>
+    <string name="change_lenguage_of_report">Report language</string>
+
+    <string name="title_employee">Employee</string>
+    <string name="button_reset_nip_vinculado">Reset</string>
+    <string name="text_non_closed">Non-enclosed text.</string>
+
+    <!-- Global Strings-->
+    <string name="save">Save</string>
+    <string name="accept">Accept</string>
+    <string name="continuar">Continue</string>
+    <string name="add">Add</string>
+    <string name="no_zone">Select only one area</string>
+    <string name="one_zone">Select one zone</string>
+    <string name="none_select">0 Selected</string>
+    <string name="select">Select</string>
+    <string name="one_select">Selected</string>
+    <string name="many_select">Selected</string>
+    <string name="text_hello">Hello</string>
+    <string name="languague">en</string>
+    <string name="whatsapp_message">WhatsApp is not installed on your device.</string>
+    <string name="text_btn_send_report">Send</string>
+
+    <string name="filter_report_txt_all_employees">All the employees</string>
+
+    <string name="et_licence_terms_title">"Privacy Policy"</string>
+    <string name="et_licence_terms_text">"By using Human eTime Admin, you agree to our privacy policy."</string>
+    <string name="et_licence_terms_text_link">"&lt;u>Privacy Policy.&lt;/u></string>
+    <string name="et_text_confirm">"Confirm"</string>
+
+    <!--ReportsMenuFragment-->
+    <string name="reportsmenufragment_title">Reports menu</string>
+    <string name="reportsmenufragment_item_1">Input and output reports</string>
+    <string name="reportsmenufragment_item_2">Employee report with / without photo</string>
+    <!--ReportsMenuFragment-->
+    <!--Enroll_ReportFragment -->
+    <string name="enroll_reportfragment_title_check">Filtered by:</string>
+    <string name="enroll_reportfragment_radio_1">Enrolled (with photography)</string>
+    <string name="enroll_reportfragment_radio_2">Not Enrolled (without photography)</string>
+    <!--Enroll_ReportFragment -->
+    <!-- HistoryAudit-->
+    <string name="audit_history_successful">Success</string>
+    <string name="audit_history_failed">Failed</string>
+    <string name="checkin">Check in</string>
+    <string name="checkout">Check out</string>
+    <!-- HistoryAudit-->
+    <!-- DetailsHistoryAudit-->
+    <string name="details_audit_company">Company :</string>
+    <string name="details_audit_employee">Employee :</string>
+    <string name="details_audit_check_date">Registration date</string>
+    <string name="details_audit_photo_enroll">Enrolled Photo</string>
+    <string name="details_audit_photo_check">Photo checked</string>
+    <string name="details_audit_check_employe">Marking location</string>
+    <string name="details_audit_label_distancia">Distance:</string>
+    <string name="details_audit_label_radio">Radius:</string>
+    <string name="details_audit_label_detalle">Registration details</string>
+    <string name="details_audit_label_fallido">Failed</string>
+    <string name="details_audit_historial_title">Audit history</string>
+    <string name="details_audit_historial_beacon_text">Beacons assigned to the employee</string>
+    <string name="details_audit_marking_location">Marking location</string>
+    <string name="details_audit_date_check">Date :</string>
+    <string name="station_txt_enabled_station">Restrict registration and editing of stations</string>
+    <string name="reportsmenufragment_item_3">Free station report</string>
+    <string name="numero_de_empleados">Number of employees</string>
+
+    <!-- DetailsHistoryAudit-->
+</resources>

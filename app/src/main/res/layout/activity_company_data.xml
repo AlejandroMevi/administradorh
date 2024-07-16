@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutCompanyData"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.ui.activities.CompanyDataActivity"
+    tools:ignore="MissingPrefix">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_heightPercent="@dimen/margin_10_percent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/btnBackCompanyDataActi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:src="@drawable/back_arrow_btn" />
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/header_logo" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:layout_heightPercent="@dimen/margin_5_percent"
+        app:layout_marginTopPercent="@dimen/margin_10_percent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/data_company_form_title"
+            android:textColor="@color/mBlack"
+            android:textSize="@dimen/text_medium_size" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:layout_marginTop="120dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            app:layout_heightPercent="@dimen/margin_85_percent"
+            app:layout_marginTopPercent="@dimen/margin_15_percent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="@dimen/marginright"
+                android:text="@string/data_company_title_country" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/border">
+
+                <Spinner
+                    android:id="@+id/country"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:dropDownHeight="50dp"
+                    android:gravity="center_vertical"
+                    android:hint="@string/data_company_title_country"
+                    android:textColorHint="@color/mForm" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="@dimen/marginright"
+                android:text="@string/data_company_title" />
+
+            <EditText
+                android:id="@+id/nameCompany"
+                style="@style/Base.Widget.MaterialComponents.TextInputEditTextt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginRight="@dimen/marginright"
+                android:background="@drawable/border"
+                android:ellipsize="start"
+                android:gravity="center_vertical"
+                android:hint="@string/data_company_title"
+                android:inputType="text"
+                android:maxLength="80"
+                android:textColorHint="@color/mForm"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="@dimen/marginright"
+                android:text="@string/data_company_title_name" />
+
+            <EditText
+                android:id="@+id/codeCompany"
+                style="@style/Base.Widget.MaterialComponents.TextInputEditTextt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginRight="@dimen/marginright"
+                android:background="@drawable/border"
+                android:ellipsize="start"
+                android:gravity="center_vertical"
+                android:hint="@string/data_company_title_name"
+                android:inputType="text"
+                android:maxLength="15"
+                android:textColorHint="@color/mForm" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="@dimen/marginright"
+                android:text="@string/data_company_title_bussines_name" />
+
+            <EditText
+                android:id="@+id/bussinesName"
+                style="@style/Base.Widget.MaterialComponents.TextInputEditTextt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginRight="@dimen/marginright"
+                android:background="@drawable/border"
+                android:ellipsize="start"
+                android:gravity="center_vertical"
+                android:hint="@string/data_company_title_bussines_name"
+                android:inputType="text"
+                android:maxLength="80"
+                android:textColorHint="@color/mForm" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/data_company_title_rfc" />
+
+            <EditText
+                android:id="@+id/rfc"
+                style="@style/Base.Widget.MaterialComponents.TextInputEditTextt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginRight="@dimen/marginright"
+                android:background="@drawable/border"
+                android:ellipsize="start"
+                android:gravity="center_vertical"
+                android:hint="@string/data_company_title_rfc"
+                android:inputType="textCapCharacters"
+                android:maxLength="14"
+                android:textColorHint="@color/mForm" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/numero_de_empleados" />
+
+            <EditText
+                android:id="@+id/employe_numbers"
+                style="@style/Base.Widget.MaterialComponents.TextInputEditTextt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="@dimen/marginright"
+                android:layout_marginRight="@dimen/marginright"
+                android:background="@drawable/border"
+                android:ellipsize="start"
+                android:gravity="center_vertical"
+                android:hint="@string/numero_de_empleados"
+                android:inputType="number"
+                android:maxLength="10"
+                android:textColorHint="@color/mForm" />
+
+            <Button
+                android:id="@+id/btnSaveAdmin"
+                style="@style/ButtonAdmin"
+                android:layout_margin="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/data_company_title_btn_next" />
+
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout
+        android:id="@+id/loadingAnimationHeaderCompanyData"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="horizontal"
+        app:layout_heightPercent="@dimen/margin_100_percent">
+
+        <include
+            android:id="@+id/loadingAnimationCompanyData"
+            layout="@layout/view_loading_new" />
+
+    </LinearLayout>
+
+</androidx.percentlayout.widget.PercentFrameLayout>
+

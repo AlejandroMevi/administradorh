@@ -1,0 +1,143 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/miWhite"
+    android:orientation="vertical"
+    tools:context=".views.ui.fragments.UpdatePhotoAdmin.UpdatePhotoAdminFragment"
+    tools:ignore="MissingPrefix">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/init_line"
+        app:layout_constraintGuide_percent="0.20"
+        android:orientation="horizontal"/>
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/init_line1"
+        app:layout_constraintGuide_percent="0.75"
+        android:orientation="horizontal"/>
+    <Button
+        android:id="@+id/btnBackRegisterEmploye"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@drawable/back_arrow_btn"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/profileOfTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/profile_of"
+        android:textColor="@color/mBlack"
+        android:textSize="@dimen/margin_medium_max_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/employeeName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="David Baños Sanchez"
+        android:textColor="@color/mTurqoise"
+        android:textSize="@dimen/text_large_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profileOfTitle" />
+
+    <FrameLayout
+        android:id="@+id/employeeFrame"
+        android:layout_width="270dp"
+        android:layout_height="360dp"
+        android:layout_gravity="center"
+        app:layout_constraintBottom_toTopOf="@+id/init_line1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/init_line">
+
+        <ImageView
+            android:id="@+id/employeePhotoView"
+            android:layout_width="220dp"
+            android:layout_height="293dp"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/user_icon" />
+
+        <!--weird fix 201dp because image overlapped the mask-->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="top"
+            android:background="@color/container" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:background="@color/container" />
+
+        <ImageView
+            android:id="@+id/employeeImage"
+            android:layout_width="220dp"
+            android:layout_height="293dp"
+            android:layout_gravity="center"
+            android:src="@drawable/marco_cam"
+            android:backgroundTint="@color/colorPrimary"
+            android:backgroundTintMode="src_atop"
+            android:visibility="visible" />
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/updatePhotoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/checkin_btn_selector"
+        android:padding="@dimen/margin8"
+        android:layout_marginHorizontal="@dimen/margin24"
+        android:text="@string/update_photo"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_medium_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/init_line1" />
+
+    <Button
+        android:id="@+id/okButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/checkin_btn_selector"
+        android:padding="@dimen/margin8"
+        android:layout_marginHorizontal="@dimen/margin24"
+        android:text="@string/cancel"
+        android:textAllCaps="false"
+        android:visibility="gone"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/text_medium_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/init_line1" />
+
+    <include
+        android:id="@+id/photoLoadingAnimation"
+        layout="@layout/view_loading_new" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+

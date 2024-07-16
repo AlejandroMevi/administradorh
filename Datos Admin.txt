@@ -1,0 +1,30 @@
+password : adminEnroll
+alias : eAdmin
+password : adminEnroll
+
+
+
+/*
+-keep class retrofit2.** { *; }
+-dontwarn retrofit2.**
+
+-keep class com.venturessoft.human.services.** { *; }
+-dontwarn com.venturessoft.human.webservices.**
+
+-keep class com.venturessoft.human.models.** { *; }
+-dontwarn com.venturessoft.human.models.**
+
+-keep class com.venturessoft.human.Repository.** { *; }
+-dontwarn com.venturessoft.human.Repository.**
+
+-keep class com.venturessoft.human.views.ui.fragments.CameraAdmin.** { *; }
+-dontwarn com.venturessoft.human.views.ui.fragments.CameraAdmin.**
+
+-keep class com.venturessoft.human.views.ui.fragments.Camera.** { *; }
+-dontwarn com.venturessoft.human.views.ui.fragments.Camera.**
+
+
+-keep class * {
+    public private *;
+}
+*/

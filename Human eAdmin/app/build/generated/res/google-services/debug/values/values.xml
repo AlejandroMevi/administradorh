@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">238573608181-s2f5b7lv2rejjsqp84qf3h34831m5em1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://humen-etime-admin.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">238573608181</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAIJ_SEgy1rhLtCqTGvtPlR1IRISuyqqQ</string>
+    <string name="google_app_id" translatable="false">1:238573608181:android:a39b2301a8107271e4f9bc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAIJ_SEgy1rhLtCqTGvtPlR1IRISuyqqQ</string>
+    <string name="google_storage_bucket" translatable="false">humen-etime-admin.appspot.com</string>
+    <string name="project_id" translatable="false">humen-etime-admin</string>
+</resources>

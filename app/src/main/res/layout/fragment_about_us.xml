@@ -1,0 +1,189 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/miWhite"
+    tools:ignore="MissingPrefix">
+
+    <Button
+        android:id="@+id/btnBackAboutUsF"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/back_arrow_btn"
+        android:src="@drawable/back_arrow_btn"
+        android:visibility="gone" />
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tituloapp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp"
+                android:text="@string/app_name"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_xlarge_size"
+                app:layout_columnSpan="2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_gravity="center" />
+
+            <TextView
+                android:id="@+id/version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="8dp"
+                android:text="@string/version"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@+id/end_title_line"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tituloapp" />
+
+            <TextView
+                android:id="@+id/numversion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="24dp"
+                android:text="3.3.5"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/end_title_line"
+                app:layout_constraintTop_toBottomOf="@+id/tituloapp" />
+
+            <TextView
+                android:id="@+id/compilacion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingLeft="@dimen/text_xlarge_size"
+                android:text="@string/compilacion"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/version"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/version" />
+
+            <TextView
+                android:id="@+id/numcompilacion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="147"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                app:layout_columnSpan="1"
+                app:layout_columnWeight="1"
+                app:layout_constraintStart_toStartOf="@+id/numversion"
+                app:layout_constraintTop_toBottomOf="@+id/numversion"
+                app:layout_gravity="start"
+                app:layout_rowWeight="1" />
+
+            <TextView
+                android:id="@+id/copy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingLeft="@dimen/text_xlarge_size"
+                android:text="@string/Copyright"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/compilacion"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/compilacion" />
+
+            <TextView
+                android:id="@+id/contetcopy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/aCopyright"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                app:layout_constraintStart_toStartOf="@+id/numcompilacion"
+                app:layout_constraintTop_toBottomOf="@+id/numcompilacion" />
+
+            <TextView
+                android:id="@+id/corporation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:paddingLeft="@dimen/text_xlarge_size"
+                android:text="@string/bCopyright"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_medium_size"
+                android:textStyle="bold"
+                app:layout_columnSpan="1"
+                app:layout_columnWeight="1"
+                app:layout_constraintStart_toStartOf="@+id/copy"
+                app:layout_constraintTop_toBottomOf="@+id/copy"
+                app:layout_gravity="start"
+                app:layout_rowWeight="1" />
+
+            <TextView
+                android:id="@+id/advetencia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/margin40"
+                android:gravity="center"
+                android:text="@string/advetencia"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_xlarge_size"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/corporation" />
+
+            <com.codesgood.views.JustifiedTextView
+                android:id="@+id/miadvertencia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/advetencia"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="@dimen/margin16"
+                android:layout_marginBottom="16dp"
+                android:letterSpacing="0.02"
+                android:lineHeight="24sp"
+                android:lineSpacingExtra="5sp"
+                android:translationY="-2.47sp"
+                android:gravity="top"
+                android:text="@string/mAdvetencia"
+                android:textColor="@color/secondaryColor"
+                android:textSize="@dimen/text_14_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/advetencia"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/end_title_line"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_percent=".50" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

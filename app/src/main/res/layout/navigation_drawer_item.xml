@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/navigationDrawerColor"
+    android:orientation="horizontal"
+    tools:ignore="MissingPrefix">
+
+    <ImageView
+        android:id="@+id/navigationDrawerIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_large_size" />
+
+    <TextView
+        android:id="@+id/navigationDrawerTitle"
+        style="@style/CustomEditTextLight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical|left"
+        android:textColor="@drawable/navigation_drawer_text_selector" />
+</LinearLayout>

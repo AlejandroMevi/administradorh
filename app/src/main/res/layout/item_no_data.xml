@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:padding="@dimen/margin16"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/appCompatImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_empty" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/listName"
+        style="@style/Body1_Regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/no_existen_registros" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/listName2"
+        style="@style/Body1_Regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin8"
+        android:text="Por el momento no se cuenta con solicitudes de fotografias por autorizar."
+        android:textColor="@color/colorGray1"
+        android:gravity="center" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

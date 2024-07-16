@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/containerWhite"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".views.ui.fragments.LocationNotFoundFragment"
+    tools:ignore="MissingPrefix">
+
+    <ImageView
+        android:id="@+id/warningIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/warning_icon" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_xlarge_size"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            style="@style/ButtonAdmin"
+            android:id="@+id/retryButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin_small_size"
+            android:text="@string/retry"/>
+
+        <Button
+            style="@style/ButtonAdmin"
+            android:id="@+id/confirmButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_small_size"
+            android:layout_toRightOf="@id/retryButton"
+            android:text="@string/confirm" />
+    </RelativeLayout>
+
+</LinearLayout>
+
+
